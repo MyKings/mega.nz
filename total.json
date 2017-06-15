@@ -1,0 +1,4017 @@
+{
+  "karere": {
+    "cloc": {
+      "XML": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 32, 
+        "blank": 0
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 57, 
+        "blank": 47
+      }, 
+      "SUM": {
+        "comment": 1651, 
+        "nFiles": 182, 
+        "code": 60153, 
+        "blank": 4732
+      }, 
+      "JavaScript": {
+        "comment": 1292, 
+        "nFiles": 68, 
+        "code": 24456, 
+        "blank": 3239
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 182, 
+        "cloc_version": "1.72", 
+        "n_lines": 66536, 
+        "files_per_second": 15.5965894827231, 
+        "lines_per_second": 5701.83888913441, 
+        "elapsed_seconds": 11.6692178249359
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 52, 
+        "code": 52, 
+        "blank": 0
+      }, 
+      "HTML": {
+        "comment": 340, 
+        "nFiles": 57, 
+        "code": 17563, 
+        "blank": 1440
+      }, 
+      "CSS": {
+        "comment": 19, 
+        "nFiles": 2, 
+        "code": 17993, 
+        "blank": 6
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:xl/karere.git", 
+    "author": [
+      {
+        "name": "Bram van der Kolk <bk@mega.co.nz>", 
+        "commit_time": "Thu Mar 13 00:29:35 2014 +1300"
+      }, 
+      {
+        "name": "BramvanderKolk <bram@mega.co.nz>", 
+        "commit_time": "Wed Mar 12 18:06:15 2014 +1300"
+      }, 
+      {
+        "name": "C\u00e9sar D. Rodas <crodas@php.net>", 
+        "commit_time": "Wed Mar 12 01:56:28 2014 -0300"
+      }, 
+      {
+        "name": "andreidymovich <maximator2@mail.ru>", 
+        "commit_time": "Tue Mar 11 09:53:25 2014 +0300"
+      }, 
+      {
+        "name": "diegocr <dcasorran@gmail.com>", 
+        "commit_time": "Thu Feb 27 01:33:15 2014 +0100"
+      }, 
+      {
+        "name": "Diego Casorran <dcasorran@gmail.com>", 
+        "commit_time": "Thu Feb 13 05:48:31 2014 +0100"
+      }, 
+      {
+        "name": "Artem S Vybornov <vybornov@gmail.com>", 
+        "commit_time": "Sat Dec 28 02:39:28 2013 +0400"
+      }, 
+      {
+        "name": "Jens <jens@atecmedia.com>", 
+        "commit_time": "Tue Dec 10 15:20:10 2013 +0100"
+      }, 
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Wed Nov 27 10:02:21 2013 +0200"
+      }
+    ]
+  }, 
+  "meganz-slack-logger": {
+    "cloc": {
+      "XML": {
+        "comment": 0, 
+        "nFiles": 35, 
+        "code": 1869, 
+        "blank": 160
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 26, 
+        "code": 2585, 
+        "blank": 726
+      }, 
+      "SUM": {
+        "comment": 39774, 
+        "nFiles": 919, 
+        "code": 86525, 
+        "blank": 15460
+      }, 
+      "YAML": {
+        "comment": 89, 
+        "nFiles": 36, 
+        "code": 3376, 
+        "blank": 181
+      }, 
+      "Python": {
+        "comment": 23, 
+        "nFiles": 1, 
+        "code": 48, 
+        "blank": 22
+      }, 
+      "make": {
+        "comment": 5, 
+        "nFiles": 3, 
+        "code": 179, 
+        "blank": 43
+      }, 
+      "JavaScript": {
+        "comment": 2675, 
+        "nFiles": 49, 
+        "code": 11457, 
+        "blank": 2533
+      }, 
+      "Ant": {
+        "comment": 12, 
+        "nFiles": 12, 
+        "code": 996, 
+        "blank": 155
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 919, 
+        "cloc_version": "1.72", 
+        "n_lines": 141759, 
+        "files_per_second": 142.303589526397, 
+        "lines_per_second": 21950.8319343553, 
+        "elapsed_seconds": 6.45802402496338
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 23, 
+        "code": 1721, 
+        "blank": 8
+      }, 
+      "HTML": {
+        "comment": 84, 
+        "nFiles": 18, 
+        "code": 4543, 
+        "blank": 622
+      }, 
+      "INI": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 10, 
+        "blank": 2
+      }, 
+      "XSD": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 255, 
+        "blank": 0
+      }, 
+      "PHP": {
+        "comment": 36682, 
+        "nFiles": 700, 
+        "code": 53824, 
+        "blank": 10686
+      }, 
+      "Bourne Shell": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 13, 
+        "blank": 0
+      }, 
+      "CSS": {
+        "comment": 204, 
+        "nFiles": 12, 
+        "code": 5649, 
+        "blank": 322
+      }
+    }, 
+    "lang": "PHP", 
+    "git": "git@code.developers.mega.co.nz:lp/meganz-slack-logger.git", 
+    "author": [
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Mon Feb 2 23:30:41 2015 +0200"
+      }
+    ]
+  }, 
+  "crodas-cmsadmin2": {
+    "cloc": {
+      "XML": {
+        "comment": 1, 
+        "nFiles": 2, 
+        "code": 46, 
+        "blank": 4
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 26, 
+        "code": 3373, 
+        "blank": 1065
+      }, 
+      "SUM": {
+        "comment": 52607, 
+        "nFiles": 1289, 
+        "code": 245772, 
+        "blank": 35206
+      }, 
+      "Sass": {
+        "comment": 71, 
+        "nFiles": 17, 
+        "code": 3130, 
+        "blank": 174
+      }, 
+      "LESS": {
+        "comment": 1632, 
+        "nFiles": 90, 
+        "code": 7901, 
+        "blank": 1296
+      }, 
+      "YAML": {
+        "comment": 17, 
+        "nFiles": 17, 
+        "code": 247, 
+        "blank": 47
+      }, 
+      "make": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 16, 
+        "blank": 5
+      }, 
+      "JavaScript": {
+        "comment": 48526, 
+        "nFiles": 756, 
+        "code": 156419, 
+        "blank": 28216
+      }, 
+      "CoffeeScript": {
+        "comment": 1, 
+        "nFiles": 2, 
+        "code": 110, 
+        "blank": 31
+      }, 
+      "PowerShell": {
+        "comment": 2, 
+        "nFiles": 1, 
+        "code": 4, 
+        "blank": 2
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 1289, 
+        "cloc_version": "1.72", 
+        "n_lines": 333585, 
+        "files_per_second": 95.4868373552153, 
+        "lines_per_second": 24711.3860660508, 
+        "elapsed_seconds": 13.4992427825928
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 44, 
+        "code": 1572, 
+        "blank": 0
+      }, 
+      "HTML": {
+        "comment": 234, 
+        "nFiles": 86, 
+        "code": 7298, 
+        "blank": 1038
+      }, 
+      "SQL": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 14, 
+        "blank": 1
+      }, 
+      "PHP": {
+        "comment": 544, 
+        "nFiles": 68, 
+        "code": 5789, 
+        "blank": 1066
+      }, 
+      "JSX": {
+        "comment": 58, 
+        "nFiles": 18, 
+        "code": 2282, 
+        "blank": 253
+      }, 
+      "Bourne Shell": {
+        "comment": 28, 
+        "nFiles": 4, 
+        "code": 54, 
+        "blank": 28
+      }, 
+      "CSS": {
+        "comment": 1493, 
+        "nFiles": 156, 
+        "code": 57517, 
+        "blank": 1980
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:crodas/cmsadmin2.git", 
+    "author": [
+      {
+        "name": "Cesar Rodas <cr@mega.co.nz>", 
+        "commit_time": "Tue Nov 15 13:50:33 2016 -0300"
+      }, 
+      {
+        "name": "Andrei Dymovich <ad@mega.co.nz>", 
+        "commit_time": "Wed May 11 19:38:41 2016 +0000"
+      }, 
+      {
+        "name": "Cesar Rodas <cesar@rodas.me>", 
+        "commit_time": "Thu May 5 01:56:02 2016 -0400"
+      }, 
+      {
+        "name": "Cesar Rodas <crodas@php.net>", 
+        "commit_time": "Fri Apr 1 17:01:15 2016 -0400"
+      }
+    ]
+  }, 
+  "strophe-native": {
+    "cloc": {
+      "C": {
+        "comment": 2079, 
+        "nFiles": 32, 
+        "code": 7439, 
+        "blank": 1510
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 19, 
+        "blank": 8
+      }, 
+      "CMake": {
+        "comment": 13, 
+        "nFiles": 2, 
+        "code": 189, 
+        "blank": 26
+      }, 
+      "SUM": {
+        "comment": 2665, 
+        "nFiles": 59, 
+        "code": 13993, 
+        "blank": 1949
+      }, 
+      "C/C++ Header": {
+        "comment": 470, 
+        "nFiles": 17, 
+        "code": 2194, 
+        "blank": 314
+      }, 
+      "C++": {
+        "comment": 103, 
+        "nFiles": 5, 
+        "code": 519, 
+        "blank": 91
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 59, 
+        "cloc_version": "1.72", 
+        "n_lines": 18607, 
+        "files_per_second": 157.353441900776, 
+        "lines_per_second": 49625.008363521, 
+        "elapsed_seconds": 0.374952077865601
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 3631, 
+        "blank": 0
+      }, 
+      "HTML": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 2, 
+        "blank": 0
+      }
+    }, 
+    "lang": "C", 
+    "git": "git@code.developers.mega.co.nz:mh/strophe-native.git", 
+    "author": [
+      {
+        "name": "Michael <mholmwood@gmail.com>", 
+        "commit_time": "Mon Aug 3 09:43:47 2015 +1200"
+      }, 
+      {
+        "name": "Alexander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Thu Jul 9 23:45:57 2015 +0300"
+      }, 
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Sat Jun 27 07:54:18 2015 +0300"
+      }, 
+      {
+        "name": "Vincent Guo <vg@mega.co.nz>", 
+        "commit_time": "Wed Feb 11 02:17:28 2015 +0000"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Fri Aug 15 09:49:56 2014 +0300"
+      }, 
+      {
+        "name": "Aleksander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Wed Jul 23 07:43:14 2014 +0200"
+      }
+    ]
+  }, 
+  "libevent-patched": {
+    "cloc": {
+      "C": {
+        "comment": 6670, 
+        "nFiles": 83, 
+        "code": 47473, 
+        "blank": 8829
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 362, 
+        "blank": 94
+      }, 
+      "CMake": {
+        "comment": 553, 
+        "nFiles": 13, 
+        "code": 1520, 
+        "blank": 507
+      }, 
+      "m4": {
+        "comment": 31, 
+        "nFiles": 5, 
+        "code": 1151, 
+        "blank": 137
+      }, 
+      "Python": {
+        "comment": 146, 
+        "nFiles": 3, 
+        "code": 1361, 
+        "blank": 338
+      }, 
+      "make": {
+        "comment": 100, 
+        "nFiles": 4, 
+        "code": 384, 
+        "blank": 67
+      }, 
+      "YAML": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 112, 
+        "blank": 3
+      }, 
+      "C/C++ Header": {
+        "comment": 8490, 
+        "nFiles": 65, 
+        "code": 6618, 
+        "blank": 2466
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 183, 
+        "cloc_version": "1.72", 
+        "n_lines": 88049, 
+        "files_per_second": 133.911420626323, 
+        "lines_per_second": 64430.4189875801, 
+        "elapsed_seconds": 1.36657500267029
+      }, 
+      "sed": {
+        "comment": 4, 
+        "nFiles": 1, 
+        "code": 17, 
+        "blank": 2
+      }, 
+      "SUM": {
+        "comment": 16024, 
+        "nFiles": 183, 
+        "code": 59507, 
+        "blank": 12518
+      }, 
+      "Bourne Shell": {
+        "comment": 30, 
+        "nFiles": 5, 
+        "code": 509, 
+        "blank": 75
+      }
+    }, 
+    "lang": "C", 
+    "git": "git@code.developers.mega.co.nz:messenger/libevent-patched.git", 
+    "author": [
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Thu Oct 13 14:29:18 2016 +0300"
+      }, 
+      {
+        "name": "Azat Khuzhin <a3at.mail@gmail.com>", 
+        "commit_time": "Wed Oct 5 15:52:41 2016 +0300"
+      }, 
+      {
+        "name": "Seven <961950442@qq.com>", 
+        "commit_time": "Fri Sep 16 16:37:59 2016 +0800"
+      }, 
+      {
+        "name": "Vlad Shcherban <shchvova@gmail.com>", 
+        "commit_time": "Thu Sep 29 18:31:53 2016 -0400"
+      }, 
+      {
+        "name": "Zonr Chang <zonr.net@gmail.com>", 
+        "commit_time": "Wed Aug 24 17:16:32 2016 +0800"
+      }, 
+      {
+        "name": "Mark Ellzey <ellzey@strcpy.net>", 
+        "commit_time": "Sun Aug 14 14:03:56 2016 -0700"
+      }, 
+      {
+        "name": "Azat Khuzhin <azat@solaris.azat>", 
+        "commit_time": "Mon May 9 22:34:28 2016 +0000"
+      }, 
+      {
+        "name": "Mark Mentovai <mark@chromium.org>", 
+        "commit_time": "Fri Jul 8 09:43:39 2016 -0400"
+      }, 
+      {
+        "name": "basavesh.as <basavesh.as@fireeye.com>", 
+        "commit_time": "Wed Jun 29 15:11:50 2016 +0530"
+      }, 
+      {
+        "name": "Neeraj Badlani <nebadlan@cisco.com>", 
+        "commit_time": "Wed Jun 22 21:15:53 2016 -0700"
+      }, 
+      {
+        "name": "Eduardo Panisset <eduardo@anchorfree.com>", 
+        "commit_time": "Sun Jun 19 02:09:50 2016 -0700"
+      }, 
+      {
+        "name": "David Paschich <davidp@navdy.com>", 
+        "commit_time": "Sat May 21 21:05:11 2016 -0700"
+      }, 
+      {
+        "name": "Rainer Keller <rainer.keller@hft-stuttgart.de>", 
+        "commit_time": "Mon May 30 16:53:41 2016 +0200"
+      }, 
+      {
+        "name": "Jan Heylen <heyleke@gmail.com>", 
+        "commit_time": "Wed Apr 20 07:31:25 2016 +0200"
+      }, 
+      {
+        "name": "Simon Perreault <sperreault@jive.com>", 
+        "commit_time": "Sun Feb 28 16:49:15 2016 -0500"
+      }, 
+      {
+        "name": "Marcus Sundberg <marcus@marcussundberg.com>", 
+        "commit_time": "Sat Mar 26 20:11:43 2016 +0100"
+      }, 
+      {
+        "name": "kirillDanshin <kirilldanshin@guava.by>", 
+        "commit_time": "Fri Mar 4 19:18:18 2016 +0300"
+      }, 
+      {
+        "name": "Trond Norbye <trond.norbye@gmail.com>", 
+        "commit_time": "Mon Feb 15 18:01:36 2016 +0100"
+      }, 
+      {
+        "name": "Nick Mathewson <nickm@torproject.org>", 
+        "commit_time": "Fri Jan 22 11:16:05 2016 -0500"
+      }, 
+      {
+        "name": "Nicholas Marriott <@nicm>", 
+        "commit_time": "Sun Dec 27 02:15:03 2015 +0300"
+      }, 
+      {
+        "name": "Mark Ellzey <socket@gmail.com>", 
+        "commit_time": "Wed Dec 23 02:42:48 2015 -0800"
+      }, 
+      {
+        "name": "billsegall <bill@segall.net>", 
+        "commit_time": "Thu Dec 17 21:27:37 2015 +1000"
+      }, 
+      {
+        "name": "lzmths <luizmatheus.ac@gmail.com>", 
+        "commit_time": "Mon Dec 14 11:04:00 2015 -0300"
+      }, 
+      {
+        "name": "Mattes D <github@xoft.cz>", 
+        "commit_time": "Fri Oct 9 19:41:30 2015 +0200"
+      }, 
+      {
+        "name": "Bill Vaughan <billvaughan@gmail.com>", 
+        "commit_time": "Fri Jul 24 05:40:59 2015 -0700"
+      }, 
+      {
+        "name": "Thomas Bernard <miniupnp@free.fr>", 
+        "commit_time": "Mon Oct 5 12:37:41 2015 +0200"
+      }, 
+      {
+        "name": "Ed Schouten <ed@nuxi.nl>", 
+        "commit_time": "Tue Aug 25 23:31:07 2015 +0200"
+      }, 
+      {
+        "name": "Sebastian Hahn <sebastian@torproject.org>", 
+        "commit_time": "Thu Aug 13 15:04:14 2015 +0200"
+      }, 
+      {
+        "name": "Christopher Wiley <wiley@google.com>", 
+        "commit_time": "Fri Jul 24 08:42:06 2015 -0700"
+      }, 
+      {
+        "name": "Andrey Skriabin <nifigase@gmail.com>", 
+        "commit_time": "Thu Apr 2 20:42:54 2015 +0300"
+      }, 
+      {
+        "name": "Seungmo Koo <spacesun@naver.com>", 
+        "commit_time": "Sun Jun 7 15:51:15 2015 +0900"
+      }, 
+      {
+        "name": "zeliard <spacesun@naver.com>", 
+        "commit_time": "Fri Jun 5 16:39:26 2015 +0900"
+      }, 
+      {
+        "name": "Greg Hazel <ghazel@gmail.com>", 
+        "commit_time": "Tue Mar 24 17:45:52 2015 -0700"
+      }, 
+      {
+        "name": "Nick Mathewson <nickm@freehaven.net>", 
+        "commit_time": "Tue Feb 17 12:37:30 2015 -0500"
+      }, 
+      {
+        "name": "Joakim S\u00f6derberg <joakim.soderberg@gmail.com>", 
+        "commit_time": "Thu Feb 5 20:21:04 2015 +0100"
+      }, 
+      {
+        "name": "Xiao Bao Clark <xiaobaoclark@gmail.com>", 
+        "commit_time": "Wed Jan 28 17:17:02 2015 +1100"
+      }, 
+      {
+        "name": "Matyas Dolak <dolak@eset.cz>", 
+        "commit_time": "Tue Jan 27 15:30:52 2015 +0100"
+      }, 
+      {
+        "name": "jer-gentoo <jer@gentoo.org>", 
+        "commit_time": "Wed Jan 21 11:24:23 2015 +0100"
+      }, 
+      {
+        "name": "Nobuaki Sukegawa <nsukeg@gmail.com>", 
+        "commit_time": "Sat Jan 3 02:22:31 2015 +0900"
+      }, 
+      {
+        "name": "John Ohl <john@collabriasoftware.com>", 
+        "commit_time": "Mon Dec 22 00:46:56 2014 -0500"
+      }, 
+      {
+        "name": "Andrea Shepard <andrea@persephoneslair.org>", 
+        "commit_time": "Wed Nov 19 12:18:05 2014 +0000"
+      }, 
+      {
+        "name": "vjpai <vpai@google.com>", 
+        "commit_time": "Mon Sep 22 12:19:37 2014 -0700"
+      }, 
+      {
+        "name": "Acer Yang <acer.yang@prophetstor.com>", 
+        "commit_time": "Sat Sep 20 15:25:53 2014 +0800"
+      }, 
+      {
+        "name": "Jean-Philippe Ouellet <jpo@vt.edu>", 
+        "commit_time": "Thu Oct 16 22:56:49 2014 -0400"
+      }, 
+      {
+        "name": "Maciej Soltysiak <maciej@soltysiak.com>", 
+        "commit_time": "Mon Oct 13 17:28:14 2014 +0200"
+      }, 
+      {
+        "name": "Joakim Soderberg <joakim.soderberg@gmail.com>", 
+        "commit_time": "Wed Sep 24 13:46:09 2014 +0200"
+      }, 
+      {
+        "name": "ufo2243 <ufo2243@gmail.com>", 
+        "commit_time": "Fri Sep 12 14:19:14 2014 +0800"
+      }, 
+      {
+        "name": "Maks Naumov <maksqwe1@ukr.net>", 
+        "commit_time": "Tue Mar 25 13:35:13 2014 +0200"
+      }, 
+      {
+        "name": "Sergey Nikulov <sergey.nikulov@gmail.com>", 
+        "commit_time": "Tue Sep 2 18:25:52 2014 +0400"
+      }, 
+      {
+        "name": "Pierre Phaneuf <pphaneuf@google.com>", 
+        "commit_time": "Wed Aug 13 23:17:52 2014 +0100"
+      }, 
+      {
+        "name": "Mike Frysinger <vapier@gentoo.org>", 
+        "commit_time": "Fri Jun 13 17:07:50 2014 -0400"
+      }, 
+      {
+        "name": "Adrian Chadd <adrian@freebsd.org>", 
+        "commit_time": "Sat Jun 7 12:57:02 2014 -0700"
+      }, 
+      {
+        "name": "Michael Richardson <mcr@finepoint.com>", 
+        "commit_time": "Sun Apr 13 13:07:16 2014 -0400"
+      }, 
+      {
+        "name": "Vilmos Nebehaj <v.nebehaj@gmail.com>", 
+        "commit_time": "Fri Mar 21 14:38:11 2014 +0100"
+      }, 
+      {
+        "name": "Joakim So\u0308derberg <joakim.soderberg@gmail.com>", 
+        "commit_time": "Fri Mar 7 18:09:56 2014 +0100"
+      }, 
+      {
+        "name": "Marcin Juszkiewicz <marcin@juszkiewicz.com.pl>", 
+        "commit_time": "Wed Jan 22 11:17:35 2014 +0100"
+      }, 
+      {
+        "name": "Diego Giagio <diego@giagio.com>", 
+        "commit_time": "Fri Jan 17 23:20:42 2014 -0200"
+      }, 
+      {
+        "name": "JoakimSoderberg <joakim.soderberg@gmail.com>", 
+        "commit_time": "Tue Jan 14 18:41:58 2014 +0100"
+      }, 
+      {
+        "name": "Andrew Sweeney <asweeney86@gmail.com>", 
+        "commit_time": "Mon Jan 6 21:19:15 2014 -0500"
+      }, 
+      {
+        "name": "Antony Antony <antony@phenome.org>", 
+        "commit_time": "Thu May 9 06:50:52 2013 +0200"
+      }, 
+      {
+        "name": "Kuldeep Gupta <kuldeepjec@gmail.com>", 
+        "commit_time": "Fri Dec 6 17:06:20 2013 +0530"
+      }, 
+      {
+        "name": "Ond\u0159ej Kuzn\u00edk <ondra@mistotebe.net>", 
+        "commit_time": "Thu Dec 5 22:45:45 2013 +0000"
+      }, 
+      {
+        "name": "Balint Reczey <balint@balintreczey.hu>", 
+        "commit_time": "Mon Nov 18 16:06:16 2013 +0100"
+      }, 
+      {
+        "name": "Julien BLACHE <jb@jblache.org>", 
+        "commit_time": "Sat May 2 20:40:11 2009 +0200"
+      }, 
+      {
+        "name": "Nicolas Martyanoff <khaelin@gmail.com>", 
+        "commit_time": "Sat Sep 28 20:03:28 2013 +0200"
+      }, 
+      {
+        "name": "Ross Lagerwall <rosslagerwall@gmail.com>", 
+        "commit_time": "Sun Sep 15 21:48:15 2013 +0200"
+      }, 
+      {
+        "name": "Nate Rosenblum <nater@maginatics.com>", 
+        "commit_time": "Tue Sep 3 14:46:47 2013 -0700"
+      }, 
+      {
+        "name": "maksqwe <maksqwe1@ukr.net>", 
+        "commit_time": "Wed Sep 4 14:25:11 2013 +0300"
+      }, 
+      {
+        "name": "Maxime Henrion <mhenrion@appnexus.com>", 
+        "commit_time": "Wed Jul 31 15:02:07 2013 +0000"
+      }, 
+      {
+        "name": "Frank Denis <github@pureftpd.org>", 
+        "commit_time": "Sat Jul 20 14:02:49 2013 -0700"
+      }, 
+      {
+        "name": "Mark Ellzey <mark.thomas@mandiant.com>", 
+        "commit_time": "Thu Jul 11 16:26:43 2013 -0400"
+      }, 
+      {
+        "name": "Makoto Kato <m_kato@ga2.so-net.ne.jp>", 
+        "commit_time": "Wed Jul 10 11:02:43 2013 +0900"
+      }, 
+      {
+        "name": "Mobai Zhang <mzhang@appnexus.com>", 
+        "commit_time": "Tue Jul 2 16:01:02 2013 -0400"
+      }, 
+      {
+        "name": "Maxime Henrion <mhenrion@gmail.com>", 
+        "commit_time": "Mon May 20 12:23:53 2013 -0400"
+      }, 
+      {
+        "name": "Belobrov Andrey <belobrovap@infotecs.ru>", 
+        "commit_time": "Mon May 6 18:15:03 2013 +0400"
+      }, 
+      {
+        "name": "Alexey Ozeritsky <aozeritsky@yandex-team.ru>", 
+        "commit_time": "Sun Apr 14 15:41:44 2013 +0400"
+      }, 
+      {
+        "name": "Dan Petro <dan.petro@datasoft.com>", 
+        "commit_time": "Fri Mar 29 09:28:35 2013 -0700"
+      }, 
+      {
+        "name": "Patrick Pelletier <code@funwithsoftware.org>", 
+        "commit_time": "Wed Feb 27 21:12:53 2013 -0800"
+      }, 
+      {
+        "name": "Catalin Patulea <catalinp@google.com>", 
+        "commit_time": "Tue Feb 19 12:22:31 2013 -0500"
+      }, 
+      {
+        "name": "Nicholas Heath <nicheath+gitcommit@gmail.com>", 
+        "commit_time": "Sun Feb 3 19:08:37 2013 +0000"
+      }, 
+      {
+        "name": "Gyepi Sam <gyepi@users.sourceforge.net>", 
+        "commit_time": "Tue Jan 22 16:59:07 2013 +0000"
+      }, 
+      {
+        "name": "Volker Lendecke <vl@samba.org>", 
+        "commit_time": "Thu Jan 17 15:01:32 2013 +0100"
+      }, 
+      {
+        "name": "Kevin Bowling <kevin.bowling@kev009.com>", 
+        "commit_time": "Mon Jan 3 15:09:21 2011 -0700"
+      }, 
+      {
+        "name": "Tay Ray Chuan <raychuan@iweb.nus.edu.sg>", 
+        "commit_time": "Tue Jan 15 12:52:08 2013 +0800"
+      }, 
+      {
+        "name": "Jay R. Wren <jrwren@xmtp.net>", 
+        "commit_time": "Wed Oct 10 13:16:02 2012 -0400"
+      }, 
+      {
+        "name": "Artem Germanov <root@cent56.(none)>", 
+        "commit_time": "Sun May 20 21:08:52 2012 -0700"
+      }, 
+      {
+        "name": "Derrick Pallas <derrick@pallas.us>", 
+        "commit_time": "Sat Nov 10 11:22:15 2012 -0800"
+      }, 
+      {
+        "name": "yangacer <yangacer@nuweb-test001.(none)>", 
+        "commit_time": "Tue Nov 6 17:37:28 2012 -0500"
+      }, 
+      {
+        "name": "Juan Pablo Fernandez <this.juan@gmail.com>", 
+        "commit_time": "Fri Oct 26 19:33:31 2012 -0400"
+      }, 
+      {
+        "name": "Joachim Bauch <mail@joachim-bauch.de>", 
+        "commit_time": "Thu Sep 6 10:01:10 2012 +0200"
+      }, 
+      {
+        "name": "George Danchev <danchev@spnet.net>", 
+        "commit_time": "Wed Sep 12 20:12:03 2012 -0400"
+      }, 
+      {
+        "name": "Roman Puls <puls@x-fabric.com>", 
+        "commit_time": "Fri Sep 7 09:47:50 2012 -0400"
+      }, 
+      {
+        "name": "Dave Hart <hart@ntp.org>", 
+        "commit_time": "Mon Jun 18 10:31:38 2012 -0400"
+      }, 
+      {
+        "name": "Simon Liu <simohayha.bobo@gmail.com>", 
+        "commit_time": "Fri Jun 15 01:01:05 2012 +0800"
+      }, 
+      {
+        "name": "Zack Weinberg <zackw@panix.com>", 
+        "commit_time": "Fri Apr 27 09:32:51 2012 -0400"
+      }, 
+      {
+        "name": "Nicholas Marriott <nicholas.marriott@gmail.com>", 
+        "commit_time": "Mon Apr 9 10:46:32 2012 -0400"
+      }, 
+      {
+        "name": "Greg Hewgill <greg@hewgill.com>", 
+        "commit_time": "Mon Nov 21 09:41:55 2011 +1300"
+      }, 
+      {
+        "name": "Nate R <nate_r@example.com>", 
+        "commit_time": "Tue Jan 24 17:15:50 2012 -0500"
+      }, 
+      {
+        "name": "Arno Bakker <abakker@users.sourceforge.net>", 
+        "commit_time": "Wed Dec 14 16:17:19 2011 -0500"
+      }, 
+      {
+        "name": "Colin Watt <cwatt@users.sourceforge.net>", 
+        "commit_time": "Tue Dec 6 13:35:54 2011 -0500"
+      }, 
+      {
+        "name": "Andrea Montefusco <amontefusco@sourceforge.net>", 
+        "commit_time": "Mon Nov 14 11:42:52 2011 -0500"
+      }, 
+      {
+        "name": "Gisle Vanem <gvanem@broadpark.no>", 
+        "commit_time": "Wed Nov 9 00:17:56 2011 -0500"
+      }, 
+      {
+        "name": "Mansour Moufid <mansourmoufid@gmail.com>", 
+        "commit_time": "Thu Nov 3 11:43:49 2011 -0400"
+      }, 
+      {
+        "name": "Jamie Iles <jamie.iles@mathembedded.com>", 
+        "commit_time": "Wed Oct 26 13:24:30 2011 +0100"
+      }, 
+      {
+        "name": "Samy Al Bahra <sbahra@appnexus.com>", 
+        "commit_time": "Mon Oct 24 01:31:55 2011 +0000"
+      }, 
+      {
+        "name": "Abel Mathew <abelpmathew@gmail.com>", 
+        "commit_time": "Fri Oct 21 19:53:32 2011 +0000"
+      }, 
+      {
+        "name": "Leonid Evdokimov <leon@darkk.net.ru>", 
+        "commit_time": "Wed Oct 19 17:44:17 2011 +0400"
+      }, 
+      {
+        "name": "Alexander Drozdov <al.drozdov@gmail.com>", 
+        "commit_time": "Tue Oct 11 09:26:57 2011 +0400"
+      }, 
+      {
+        "name": "Sergey Avseyev <sergey.avseyev@gmail.com>", 
+        "commit_time": "Thu Sep 15 13:06:38 2011 +0300"
+      }, 
+      {
+        "name": "Leonid Evdokimov <darkk@yandex-team.ru>", 
+        "commit_time": "Wed Aug 10 15:58:47 2011 +0400"
+      }, 
+      {
+        "name": "Harlan Stenn <stenn@ntp.org>", 
+        "commit_time": "Sat Aug 27 04:46:10 2011 -0400"
+      }, 
+      {
+        "name": "Harlan Stenn <stenn@psp-deb1.ntp.org>", 
+        "commit_time": "Sun Aug 28 14:30:52 2011 -0400"
+      }, 
+      {
+        "name": "Michael Herf <herf@pobox.com>", 
+        "commit_time": "Mon Aug 15 13:39:10 2011 -0400"
+      }, 
+      {
+        "name": "Mitchell Livingston <livings124@users.sourceforge.net>", 
+        "commit_time": "Mon Aug 8 17:06:46 2011 -0400"
+      }, 
+      {
+        "name": "Joachim Bauch <jojo@struktur.de>", 
+        "commit_time": "Mon Jul 4 11:36:14 2011 -0400"
+      }, 
+      {
+        "name": "Nir Soffer <nirsof@gmail.com>", 
+        "commit_time": "Tue Jun 14 01:58:30 2011 +0300"
+      }, 
+      {
+        "name": "Ed Day <edday2000@gmail.com>", 
+        "commit_time": "Sat Jun 11 00:49:24 2011 -0400"
+      }, 
+      {
+        "name": "Mina Naguib <mina.git@naguib.ca>", 
+        "commit_time": "Tue May 31 13:56:56 2011 -0400"
+      }, 
+      {
+        "name": "Peter Rosin <peda@lysator.liu.se>", 
+        "commit_time": "Thu May 26 10:10:57 2011 +0200"
+      }, 
+      {
+        "name": "Kevin Ko <kevin.s.ko@gmail.com>", 
+        "commit_time": "Mon May 23 01:40:05 2011 -0400"
+      }, 
+      {
+        "name": "Tomash Brechko <tomash.brechko@gmail.com>", 
+        "commit_time": "Thu Mar 31 19:11:10 2011 +0400"
+      }, 
+      {
+        "name": "Christophe Fillot <cf@utc.fr>", 
+        "commit_time": "Sat Mar 12 12:08:19 2011 -0500"
+      }, 
+      {
+        "name": "Constantine Verutin <cverutin@gmail.com>", 
+        "commit_time": "Tue Feb 22 17:52:50 2011 -0500"
+      }, 
+      {
+        "name": "Jardel Weyrich <jweyrich@gmail.com>", 
+        "commit_time": "Sat Dec 18 02:40:22 2010 -0200"
+      }, 
+      {
+        "name": "Mike Smellie <mike.j.smellie@gmail.com>", 
+        "commit_time": "Mon Jul 19 14:18:31 2010 +1200"
+      }, 
+      {
+        "name": "Evan Jones <evanj@mit.edu>", 
+        "commit_time": "Mon Dec 6 14:17:44 2010 -0500"
+      }, 
+      {
+        "name": "Kelly Brock <Kerby@inocode.com>", 
+        "commit_time": "Tue Nov 30 11:34:26 2010 -0500"
+      }, 
+      {
+        "name": "Christopher Davis <chrisd@torproject.org>", 
+        "commit_time": "Mon Nov 29 18:25:04 2010 -0800"
+      }, 
+      {
+        "name": "Christopher Davis <chrisd@mangrin.org>", 
+        "commit_time": "Mon Nov 29 07:18:32 2010 -0800"
+      }, 
+      {
+        "name": "Felix Nawothnig <felix.nawothnig@gmail.com>", 
+        "commit_time": "Tue Jun 1 04:45:55 2010 +0200"
+      }, 
+      {
+        "name": "Dimitre Piskyulev <piskyulev@users.sourceforge.net>", 
+        "commit_time": "Wed Oct 27 17:32:41 2010 -0400"
+      }, 
+      {
+        "name": "Pavel Plesov <pavel.plesov@gmail.com>", 
+        "commit_time": "Sun Aug 8 16:46:39 2010 +0400"
+      }, 
+      {
+        "name": "Simon Perreault <simon.perreault@viagenie.ca>", 
+        "commit_time": "Mon Sep 20 12:47:39 2010 -0400"
+      }, 
+      {
+        "name": "Shuo Chen <giantchen@gmail.com>", 
+        "commit_time": "Mon Sep 6 10:10:17 2010 -0400"
+      }, 
+      {
+        "name": "Gilad Benjamini <gilad@altornetworks.com>", 
+        "commit_time": "Fri Aug 13 17:19:18 2010 -0400"
+      }, 
+      {
+        "name": "niks <niksniksniks@sourceforge.net>", 
+        "commit_time": "Fri Jul 16 09:11:09 2010 -0400"
+      }, 
+      {
+        "name": "Pierre Phaneuf <pphaneuf@gmail.com>", 
+        "commit_time": "Thu May 27 22:37:09 2010 -0400"
+      }, 
+      {
+        "name": "Felix Nawothnig <felix.nawothnig@googlemail.com>", 
+        "commit_time": "Wed May 26 12:50:59 2010 -0400"
+      }, 
+      {
+        "name": "Frank Denis <chrysalis@users.sourceforge.net>", 
+        "commit_time": "Mon May 3 11:37:16 2010 -0400"
+      }, 
+      {
+        "name": "Niels Provos <provos@gmail.com>", 
+        "commit_time": "Fri Apr 23 18:59:22 2010 -0700"
+      }, 
+      {
+        "name": "Sebastian Sj\u00f6berg <Sebastian.Sjoberg@axis.com>", 
+        "commit_time": "Wed Apr 14 15:42:57 2010 -0400"
+      }, 
+      {
+        "name": "Giuseppe Scrivano <gscrivano@gnu.org>", 
+        "commit_time": "Mon Apr 12 12:52:31 2010 +0200"
+      }, 
+      {
+        "name": "Patrick Galbraith <patg@patg.net>", 
+        "commit_time": "Tue Mar 23 16:04:59 2010 -0400"
+      }, 
+      {
+        "name": "Brodie Thiesfield <brofield2@jellycan.com>", 
+        "commit_time": "Mon Mar 8 13:46:48 2010 -0500"
+      }, 
+      {
+        "name": "Niels Provos <provos@freebsd.localdomain>", 
+        "commit_time": "Sat Feb 27 18:59:06 2010 -0800"
+      }, 
+      {
+        "name": "Pavel Plesov <mclap@users.sourceforge.net>", 
+        "commit_time": "Mon Jan 11 19:04:11 2010 -0500"
+      }, 
+      {
+        "name": "Jardel Weyrich <jweyrich@users.sourceforge.net>", 
+        "commit_time": "Mon Dec 28 16:03:47 2009 -0500"
+      }, 
+      {
+        "name": "Dagobert Michelsen <dmichelsen@users.sourceforge.net>", 
+        "commit_time": "Mon Dec 28 15:53:01 2009 -0500"
+      }, 
+      {
+        "name": "unknown <Nick Mathewson@.(none)>", 
+        "commit_time": "Mon Dec 21 16:36:40 2009 -0500"
+      }, 
+      {
+        "name": "Yasuoka Masahiko <yasuoka@iij.ad.jp>", 
+        "commit_time": "Fri Dec 4 10:44:46 2009 -0800"
+      }, 
+      {
+        "name": "William Ahern <william@25thandClement.com>", 
+        "commit_time": "Sun Nov 29 10:20:46 2009 -0500"
+      }, 
+      {
+        "name": "Zhuang Yuyao <mlistz@gmail.com>", 
+        "commit_time": "Fri Nov 27 16:02:49 2009 -0500"
+      }
+    ]
+  }, 
+  "karere_provisioning": {
+    "cloc": {
+      "SUM": {
+        "comment": 1432, 
+        "nFiles": 110, 
+        "code": 15210, 
+        "blank": 2793
+      }, 
+      "YAML": {
+        "comment": 38, 
+        "nFiles": 59, 
+        "code": 2314, 
+        "blank": 397
+      }, 
+      "Python": {
+        "comment": 526, 
+        "nFiles": 34, 
+        "code": 4200, 
+        "blank": 768
+      }, 
+      "make": {
+        "comment": 11, 
+        "nFiles": 3, 
+        "code": 382, 
+        "blank": 58
+      }, 
+      "C++": {
+        "comment": 751, 
+        "nFiles": 1, 
+        "code": 7899, 
+        "blank": 1491
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 110, 
+        "cloc_version": "1.72", 
+        "n_lines": 19435, 
+        "files_per_second": 70.0583777499762, 
+        "lines_per_second": 12378.0415597344, 
+        "elapsed_seconds": 1.57011914253235
+      }, 
+      "HTML": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 28, 
+        "blank": 0
+      }, 
+      "INI": {
+        "comment": 0, 
+        "nFiles": 3, 
+        "code": 84, 
+        "blank": 17
+      }, 
+      "Erlang": {
+        "comment": 92, 
+        "nFiles": 4, 
+        "code": 282, 
+        "blank": 62
+      }, 
+      "Bourne Shell": {
+        "comment": 14, 
+        "nFiles": 5, 
+        "code": 21, 
+        "blank": 0
+      }
+    }, 
+    "lang": "YAML", 
+    "git": "git@code.developers.mega.co.nz:messenger/karere_provisioning.git", 
+    "author": [
+      {
+        "name": "Marek Kuziel <marek.kuziel@encode.net.nz>", 
+        "commit_time": "Mon Nov 14 15:25:42 2016 +1300"
+      }, 
+      {
+        "name": "gm <gm@mega.co.nz>", 
+        "commit_time": "Fri Aug 5 16:55:59 2016 +1200"
+      }, 
+      {
+        "name": "Guy Kloss <gk@mega.co.nz>", 
+        "commit_time": "Thu Jun 4 04:09:24 2015 +0000"
+      }, 
+      {
+        "name": "Marek Kuziel <marek@kuziel.nz>", 
+        "commit_time": "Thu May 21 12:50:51 2015 +1200"
+      }
+    ]
+  }, 
+  "webrtc-buildsys": {
+    "cloc": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 2, 
+        "cloc_version": "1.72", 
+        "n_lines": 445, 
+        "files_per_second": 75.5288164588304, 
+        "lines_per_second": 16805.1616620898, 
+        "elapsed_seconds": 0.026479959487915
+      }, 
+      "SUM": {
+        "comment": 55, 
+        "nFiles": 2, 
+        "code": 333, 
+        "blank": 57
+      }, 
+      "CMake": {
+        "comment": 55, 
+        "nFiles": 2, 
+        "code": 333, 
+        "blank": 57
+      }
+    }, 
+    "lang": "CMake", 
+    "git": "git@code.developers.mega.co.nz:messenger/webrtc-buildsys.git", 
+    "author": [
+      {
+        "name": "Alexander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Mon Aug 25 17:33:17 2014 +0300"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Tue Jul 29 16:33:52 2014 +0200"
+      }
+    ]
+  }, 
+  "karere-native": {
+    "cloc": {
+      "C/C++ Header": {
+        "comment": 5062, 
+        "nFiles": 116, 
+        "code": 18129, 
+        "blank": 2770
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 5, 
+        "code": 568, 
+        "blank": 90
+      }, 
+      "CMake": {
+        "comment": 172, 
+        "nFiles": 17, 
+        "code": 1240, 
+        "blank": 233
+      }, 
+      "Qt": {
+        "comment": 0, 
+        "nFiles": 8, 
+        "code": 2434, 
+        "blank": 0
+      }, 
+      "Python": {
+        "comment": 2, 
+        "nFiles": 2, 
+        "code": 73, 
+        "blank": 13
+      }, 
+      "Objective C++": {
+        "comment": 101, 
+        "nFiles": 8, 
+        "code": 931, 
+        "blank": 201
+      }, 
+      "SUM": {
+        "comment": 6114, 
+        "nFiles": 201, 
+        "code": 36044, 
+        "blank": 4475
+      }, 
+      "C++": {
+        "comment": 668, 
+        "nFiles": 33, 
+        "code": 11626, 
+        "blank": 1020
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 201, 
+        "cloc_version": "1.72", 
+        "n_lines": 46633, 
+        "files_per_second": 133.033289601958, 
+        "lines_per_second": 30864.3850448165, 
+        "elapsed_seconds": 1.51090002059937
+      }, 
+      "SQL": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 22, 
+        "blank": 7
+      }, 
+      "DOS Batch": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 7, 
+        "blank": 1
+      }, 
+      "Bourne Shell": {
+        "comment": 109, 
+        "nFiles": 10, 
+        "code": 1014, 
+        "blank": 140
+      }
+    }, 
+    "lang": "C/C++ Header", 
+    "git": "git@code.developers.mega.co.nz:js/karere-native.git", 
+    "author": [
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Wed Aug 10 19:10:18 2016 +0300"
+      }, 
+      {
+        "name": "Alexander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Thu Jul 23 22:28:11 2015 +0300"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Mon Apr 13 20:05:50 2015 +0200"
+      }, 
+      {
+        "name": "vincentguoy <vincentguo@Vincents-MacBook-Pro.local>", 
+        "commit_time": "Fri Mar 20 18:20:23 2015 +1300"
+      }, 
+      {
+        "name": "Vincent Guo <vg@mega.co.nz>", 
+        "commit_time": "Mon Mar 16 06:54:33 2015 +0000"
+      }
+    ]
+  }, 
+  "mh-karere-native": {
+    "cloc": {
+      "C/C++ Header": {
+        "comment": 3038, 
+        "nFiles": 88, 
+        "code": 10069, 
+        "blank": 1631
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 5, 
+        "code": 767, 
+        "blank": 111
+      }, 
+      "CMake": {
+        "comment": 114, 
+        "nFiles": 14, 
+        "code": 1237, 
+        "blank": 222
+      }, 
+      "Qt": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 542, 
+        "blank": 0
+      }, 
+      "Objective C++": {
+        "comment": 100, 
+        "nFiles": 8, 
+        "code": 850, 
+        "blank": 181
+      }, 
+      "SUM": {
+        "comment": 3701, 
+        "nFiles": 150, 
+        "code": 20574, 
+        "blank": 2888
+      }, 
+      "C++": {
+        "comment": 403, 
+        "nFiles": 29, 
+        "code": 7010, 
+        "blank": 713
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 150, 
+        "cloc_version": "1.72", 
+        "n_lines": 27163, 
+        "files_per_second": 177.230802514799, 
+        "lines_per_second": 32094.1352580633, 
+        "elapsed_seconds": 0.846354007720947
+      }, 
+      "Bourne Shell": {
+        "comment": 46, 
+        "nFiles": 4, 
+        "code": 99, 
+        "blank": 30
+      }
+    }, 
+    "lang": "C/C++ Header", 
+    "git": "git@code.developers.mega.co.nz:mh/karere-native.git", 
+    "author": [
+      {
+        "name": "Michael <mholmwood@gmail.com>", 
+        "commit_time": "Mon Aug 3 10:02:56 2015 +1200"
+      }, 
+      {
+        "name": "Alexander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Thu Jul 23 22:28:11 2015 +0300"
+      }, 
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Fri Jun 26 22:28:44 2015 +0300"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Mon Apr 13 20:05:50 2015 +0200"
+      }, 
+      {
+        "name": "vincentguoy <vincentguo@Vincents-MacBook-Pro.local>", 
+        "commit_time": "Fri Mar 20 18:20:23 2015 +1300"
+      }, 
+      {
+        "name": "Vincent Guo <vg@mega.co.nz>", 
+        "commit_time": "Mon Mar 16 06:54:33 2015 +0000"
+      }
+    ]
+  }, 
+  "node-maxminddb": {
+    "cloc": {
+      "C": {
+        "comment": 51, 
+        "nFiles": 2, 
+        "code": 1869, 
+        "blank": 313
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 43, 
+        "blank": 18
+      }, 
+      "make": {
+        "comment": 1, 
+        "nFiles": 1, 
+        "code": 19, 
+        "blank": 7
+      }, 
+      "JavaScript": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 20, 
+        "blank": 1
+      }, 
+      "C/C++ Header": {
+        "comment": 206, 
+        "nFiles": 4, 
+        "code": 286, 
+        "blank": 93
+      }, 
+      "C++": {
+        "comment": 2, 
+        "nFiles": 1, 
+        "code": 114, 
+        "blank": 15
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 11, 
+        "cloc_version": "1.72", 
+        "n_lines": 3081, 
+        "files_per_second": 95.7730873341415, 
+        "lines_per_second": 26825.1710978627, 
+        "elapsed_seconds": 0.11485481262207
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 23, 
+        "blank": 0
+      }, 
+      "SUM": {
+        "comment": 260, 
+        "nFiles": 11, 
+        "code": 2374, 
+        "blank": 447
+      }
+    }, 
+    "lang": "C/C++ Header", 
+    "git": "git@code.developers.mega.co.nz:messenger/node-maxminddb.git", 
+    "author": [
+      {
+        "name": "Alexander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Mon Jan 26 21:27:05 2015 +0200"
+      }
+    ]
+  }, 
+  "cpp-std-threads": {
+    "cloc": {
+      "C/C++ Header": {
+        "comment": 74, 
+        "nFiles": 3, 
+        "code": 476, 
+        "blank": 21
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 23, 
+        "blank": 6
+      }, 
+      "CMake": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 4, 
+        "blank": 3
+      }, 
+      "SUM": {
+        "comment": 78, 
+        "nFiles": 7, 
+        "code": 1086, 
+        "blank": 37
+      }, 
+      "C++": {
+        "comment": 4, 
+        "nFiles": 1, 
+        "code": 52, 
+        "blank": 7
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 7, 
+        "cloc_version": "1.72", 
+        "n_lines": 1201, 
+        "files_per_second": 121.422188402081, 
+        "lines_per_second": 20832.5783244142, 
+        "elapsed_seconds": 0.057650089263916
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 531, 
+        "blank": 0
+      }
+    }, 
+    "lang": "C/C++ Header", 
+    "git": "git@code.developers.mega.co.nz:messenger/cpp-std-threads.git", 
+    "author": [
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Wed Jul 9 09:54:31 2014 +0300"
+      }, 
+      {
+        "name": "Guy Kloss <guy@kloss.org.nz>", 
+        "commit_time": "Tue Jul 8 10:47:35 2014 +1200"
+      }
+    ]
+  }, 
+  "mpenc_py": {
+    "cloc": {
+      "Python": {
+        "comment": 2848, 
+        "nFiles": 37, 
+        "code": 5680, 
+        "blank": 1798
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 39, 
+        "cloc_version": "1.72", 
+        "n_lines": 10401, 
+        "files_per_second": 143.968738008315, 
+        "lines_per_second": 38395.3549749869, 
+        "elapsed_seconds": 0.270892143249512
+      }, 
+      "make": {
+        "comment": 4, 
+        "nFiles": 1, 
+        "code": 19, 
+        "blank": 7
+      }, 
+      "SUM": {
+        "comment": 2855, 
+        "nFiles": 39, 
+        "code": 5734, 
+        "blank": 1812
+      }, 
+      "Bourne Shell": {
+        "comment": 3, 
+        "nFiles": 1, 
+        "code": 35, 
+        "blank": 7
+      }
+    }, 
+    "lang": "Python", 
+    "git": "git@code.developers.mega.co.nz:xl/mpenc_py.git", 
+    "author": [
+      {
+        "name": "Ximin Luo <xl@mega.co.nz>", 
+        "commit_time": "Mon Jan 18 19:24:15 2016 +0100"
+      }, 
+      {
+        "name": "Guy Kloss <gk@mega.co.nz>", 
+        "commit_time": "Fri May 15 16:40:22 2015 +1200"
+      }
+    ]
+  }, 
+  "cmsadmin2": {
+    "cloc": {
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 25, 
+        "code": 3228, 
+        "blank": 1012
+      }, 
+      "SUM": {
+        "comment": 46039, 
+        "nFiles": 1126, 
+        "code": 181376, 
+        "blank": 28138
+      }, 
+      "Sass": {
+        "comment": 35, 
+        "nFiles": 15, 
+        "code": 2066, 
+        "blank": 90
+      }, 
+      "LESS": {
+        "comment": 1619, 
+        "nFiles": 87, 
+        "code": 7756, 
+        "blank": 1263
+      }, 
+      "YAML": {
+        "comment": 17, 
+        "nFiles": 17, 
+        "code": 247, 
+        "blank": 47
+      }, 
+      "make": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 16, 
+        "blank": 5
+      }, 
+      "JavaScript": {
+        "comment": 42549, 
+        "nFiles": 671, 
+        "code": 129387, 
+        "blank": 22379
+      }, 
+      "CoffeeScript": {
+        "comment": 1, 
+        "nFiles": 2, 
+        "code": 110, 
+        "blank": 31
+      }, 
+      "PowerShell": {
+        "comment": 2, 
+        "nFiles": 1, 
+        "code": 4, 
+        "blank": 2
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 1126, 
+        "cloc_version": "1.72", 
+        "n_lines": 255553, 
+        "files_per_second": 146.58097227092, 
+        "lines_per_second": 33267.5019598139, 
+        "elapsed_seconds": 7.68176102638245
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 41, 
+        "code": 1486, 
+        "blank": 0
+      }, 
+      "HTML": {
+        "comment": 231, 
+        "nFiles": 66, 
+        "code": 6803, 
+        "blank": 980
+      }, 
+      "PHP": {
+        "comment": 296, 
+        "nFiles": 36, 
+        "code": 2159, 
+        "blank": 427
+      }, 
+      "JSX": {
+        "comment": 24, 
+        "nFiles": 12, 
+        "code": 1214, 
+        "blank": 107
+      }, 
+      "Bourne Shell": {
+        "comment": 28, 
+        "nFiles": 4, 
+        "code": 54, 
+        "blank": 28
+      }, 
+      "CSS": {
+        "comment": 1237, 
+        "nFiles": 148, 
+        "code": 26846, 
+        "blank": 1767
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:ad/cmsadmin2.git", 
+    "author": [
+      {
+        "name": "Cesar Rodas <cr@mega.co.nz>", 
+        "commit_time": "Tue May 10 00:58:04 2016 -0400"
+      }, 
+      {
+        "name": "Cesar Rodas <cesar@rodas.me>", 
+        "commit_time": "Thu May 5 01:56:02 2016 -0400"
+      }, 
+      {
+        "name": "Cesar Rodas <crodas@php.net>", 
+        "commit_time": "Fri Apr 1 17:01:15 2016 -0400"
+      }
+    ]
+  }, 
+  "messenger-strophe-native": {
+    "cloc": {
+      "C": {
+        "comment": 2074, 
+        "nFiles": 32, 
+        "code": 7411, 
+        "blank": 1489
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 19, 
+        "blank": 8
+      }, 
+      "CMake": {
+        "comment": 15, 
+        "nFiles": 2, 
+        "code": 225, 
+        "blank": 31
+      }, 
+      "SUM": {
+        "comment": 2663, 
+        "nFiles": 58, 
+        "code": 10395, 
+        "blank": 1933
+      }, 
+      "C/C++ Header": {
+        "comment": 471, 
+        "nFiles": 17, 
+        "code": 2219, 
+        "blank": 314
+      }, 
+      "C++": {
+        "comment": 103, 
+        "nFiles": 5, 
+        "code": 519, 
+        "blank": 91
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 58, 
+        "cloc_version": "1.72", 
+        "n_lines": 14991, 
+        "files_per_second": 152.942246878218, 
+        "lines_per_second": 39530.2969474374, 
+        "elapsed_seconds": 0.379228115081787
+      }, 
+      "HTML": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 2, 
+        "blank": 0
+      }
+    }, 
+    "lang": "C", 
+    "git": "git@code.developers.mega.co.nz:messenger/strophe-native.git", 
+    "author": [
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Sun Aug 7 22:49:45 2016 +0300"
+      }, 
+      {
+        "name": "Alexander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Thu Jul 9 23:45:57 2015 +0300"
+      }, 
+      {
+        "name": "Vincent Guo <vg@mega.co.nz>", 
+        "commit_time": "Wed Feb 11 02:17:28 2015 +0000"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Fri Aug 15 09:49:56 2014 +0300"
+      }, 
+      {
+        "name": "Aleksander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Wed Jul 23 07:43:14 2014 +0200"
+      }
+    ]
+  }, 
+  "xl-mpenc_js": {
+    "cloc": {
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 86, 
+        "blank": 25
+      }, 
+      "SUM": {
+        "comment": 6201, 
+        "nFiles": 55, 
+        "code": 12444, 
+        "blank": 2131
+      }, 
+      "Python": {
+        "comment": 128, 
+        "nFiles": 2, 
+        "code": 202, 
+        "blank": 50
+      }, 
+      "make": {
+        "comment": 11, 
+        "nFiles": 1, 
+        "code": 110, 
+        "blank": 32
+      }, 
+      "JavaScript": {
+        "comment": 6058, 
+        "nFiles": 46, 
+        "code": 11926, 
+        "blank": 2022
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 55, 
+        "cloc_version": "1.72", 
+        "n_lines": 20776, 
+        "files_per_second": 130.131283906171, 
+        "lines_per_second": 49156.5009897203, 
+        "elapsed_seconds": 0.422650098800659
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 96, 
+        "blank": 0
+      }, 
+      "Bourne Shell": {
+        "comment": 4, 
+        "nFiles": 1, 
+        "code": 20, 
+        "blank": 1
+      }, 
+      "CSS": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 4, 
+        "blank": 1
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:xl/mpenc_js.git", 
+    "author": [
+      {
+        "name": "Ximin Luo <xl@mega.co.nz>", 
+        "commit_time": "Tue Jan 19 16:15:31 2016 +0100"
+      }, 
+      {
+        "name": "Guy Kloss <gk@mega.co.nz>", 
+        "commit_time": "Tue Jan 19 15:44:54 2016 +1300"
+      }, 
+      {
+        "name": "Lyubomir Petrov <lp@mega.co.nz>", 
+        "commit_time": "Mon Jul 27 16:03:30 2015 +0300"
+      }, 
+      {
+        "name": "Michael Holmwood <mh@mega.co.nz>", 
+        "commit_time": "Thu Jun 4 23:49:37 2015 +1200"
+      }, 
+      {
+        "name": "malloc_free <mh@mega.co.nz>", 
+        "commit_time": "Wed Jun 17 02:25:14 2015 +1200"
+      }, 
+      {
+        "name": "Vincent Guo <vg@mega.co.nz>", 
+        "commit_time": "Mon May 25 20:21:20 2015 +1200"
+      }, 
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Wed Jun 18 23:09:31 2014 +0300"
+      }, 
+      {
+        "name": "Ximin Luo <infinity0@pwned.gg>", 
+        "commit_time": "Thu May 1 23:34:53 2014 +0100"
+      }
+    ]
+  }, 
+  "messenger-webrtc": {
+    "cloc": {
+      "SUM": {
+        "comment": 5375, 
+        "nFiles": 25, 
+        "code": 15246, 
+        "blank": 3097
+      }, 
+      "JavaScript": {
+        "comment": 5365, 
+        "nFiles": 20, 
+        "code": 14261, 
+        "blank": 2986
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 25, 
+        "cloc_version": "1.72", 
+        "n_lines": 23718, 
+        "files_per_second": 95.3824070646088, 
+        "lines_per_second": 90491.1972303357, 
+        "elapsed_seconds": 0.262102842330933
+      }, 
+      "HTML": {
+        "comment": 5, 
+        "nFiles": 3, 
+        "code": 752, 
+        "blank": 67
+      }, 
+      "Bourne Shell": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 11, 
+        "blank": 1
+      }, 
+      "CSS": {
+        "comment": 5, 
+        "nFiles": 1, 
+        "code": 222, 
+        "blank": 43
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:messenger/webrtc.git", 
+    "author": [
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Thu Sep 29 19:13:49 2016 +0300"
+      }, 
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Thu Jul 9 07:26:02 2015 +0300"
+      }, 
+      {
+        "name": "Alexander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Tue Jul 7 15:02:22 2015 +0300"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Tue Apr 28 16:46:37 2015 +0000"
+      }, 
+      {
+        "name": "Aleksander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Tue Jul 15 17:24:15 2014 +0200"
+      }, 
+      {
+        "name": "Ximin Luo <infinity0@pwned.gg>", 
+        "commit_time": "Sat May 31 03:14:43 2014 +0100"
+      }
+    ]
+  }, 
+  "node-xmppclient-bosh": {
+    "cloc": {
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 79, 
+        "blank": 46
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 43, 
+        "cloc_version": "1.72", 
+        "n_lines": 3881, 
+        "files_per_second": 190.451677215925, 
+        "lines_per_second": 17189.3711459304, 
+        "elapsed_seconds": 0.225779056549072
+      }, 
+      "SUM": {
+        "comment": 322, 
+        "nFiles": 43, 
+        "code": 2984, 
+        "blank": 575
+      }, 
+      "JavaScript": {
+        "comment": 302, 
+        "nFiles": 36, 
+        "code": 2449, 
+        "blank": 465
+      }, 
+      "YAML": {
+        "comment": 3, 
+        "nFiles": 1, 
+        "code": 32, 
+        "blank": 0
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 52, 
+        "blank": 0
+      }, 
+      "HTML": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 9, 
+        "blank": 1
+      }, 
+      "Lua": {
+        "comment": 17, 
+        "nFiles": 2, 
+        "code": 363, 
+        "blank": 63
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:messenger/node-xmppclient-bosh.git", 
+    "author": [
+      {
+        "name": "Alexander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Sun Oct 19 15:44:03 2014 +0300"
+      }
+    ]
+  }, 
+  "dbpage": {
+    "cloc": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 6, 
+        "cloc_version": "1.72", 
+        "n_lines": 10629, 
+        "files_per_second": 45.6349864631822, 
+        "lines_per_second": 80842.3785195273, 
+        "elapsed_seconds": 0.131478071212769
+      }, 
+      "SUM": {
+        "comment": 1495, 
+        "nFiles": 6, 
+        "code": 7628, 
+        "blank": 1506
+      }, 
+      "JavaScript": {
+        "comment": 1492, 
+        "nFiles": 5, 
+        "code": 7523, 
+        "blank": 1488
+      }, 
+      "HTML": {
+        "comment": 3, 
+        "nFiles": 1, 
+        "code": 105, 
+        "blank": 18
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:bk/dbpage.git", 
+    "author": [
+      {
+        "name": "Bram van der Kolk <bk@mega.co.nz>", 
+        "commit_time": "Tue Oct 18 11:22:57 2016 +1300"
+      }
+    ]
+  }, 
+  "babel2": {
+    "cloc": {
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 16, 
+        "blank": 6
+      }, 
+      "Sass": {
+        "comment": 51, 
+        "nFiles": 2, 
+        "code": 269, 
+        "blank": 117
+      }, 
+      "SUM": {
+        "comment": 944, 
+        "nFiles": 45, 
+        "code": 26370, 
+        "blank": 1809
+      }, 
+      "JavaScript": {
+        "comment": 507, 
+        "nFiles": 13, 
+        "code": 10823, 
+        "blank": 1390
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 45, 
+        "cloc_version": "1.72", 
+        "n_lines": 29123, 
+        "files_per_second": 9.98286063941213, 
+        "lines_per_second": 6460.68556447999, 
+        "elapsed_seconds": 4.50772595405579
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 15, 
+        "blank": 0
+      }, 
+      "HTML": {
+        "comment": 261, 
+        "nFiles": 5, 
+        "code": 244, 
+        "blank": 36
+      }, 
+      "PHP": {
+        "comment": 78, 
+        "nFiles": 16, 
+        "code": 385, 
+        "blank": 95
+      }, 
+      "Ruby": {
+        "comment": 11, 
+        "nFiles": 1, 
+        "code": 5, 
+        "blank": 4
+      }, 
+      "CSS": {
+        "comment": 36, 
+        "nFiles": 6, 
+        "code": 14613, 
+        "blank": 161
+      }
+    }, 
+    "lang": "PHP", 
+    "git": "git@code.developers.mega.co.nz:crodas/babel2.git", 
+    "author": [
+      {
+        "name": "Cesar Rodas <cr@mega.co.nz>", 
+        "commit_time": "Mon Nov 2 01:25:41 2015 -0300"
+      }, 
+      {
+        "name": "Cesar Rodas <crodas@php.net>", 
+        "commit_time": "Mon Oct 26 17:20:58 2015 -0300"
+      }
+    ]
+  }, 
+  "megajids": {
+    "cloc": {
+      "Python": {
+        "comment": 18, 
+        "nFiles": 2, 
+        "code": 19, 
+        "blank": 12
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 7, 
+        "cloc_version": "1.72", 
+        "n_lines": 257, 
+        "files_per_second": 144.604815870999, 
+        "lines_per_second": 5309.06252554953, 
+        "elapsed_seconds": 0.0484077930450439
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 13, 
+        "blank": 0
+      }, 
+      "JavaScript": {
+        "comment": 31, 
+        "nFiles": 4, 
+        "code": 126, 
+        "blank": 38
+      }, 
+      "SUM": {
+        "comment": 49, 
+        "nFiles": 7, 
+        "code": 158, 
+        "blank": 50
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:lp/megajids.git", 
+    "author": [
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Tue Jun 3 02:04:59 2014 +0300"
+      }
+    ]
+  }, 
+  "kv_store_js": {
+    "cloc": {
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 21, 
+        "blank": 12
+      }, 
+      "SUM": {
+        "comment": 213, 
+        "nFiles": 10, 
+        "code": 571, 
+        "blank": 101
+      }, 
+      "JavaScript": {
+        "comment": 209, 
+        "nFiles": 6, 
+        "code": 445, 
+        "blank": 81
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 10, 
+        "cloc_version": "1.72", 
+        "n_lines": 885, 
+        "files_per_second": 136.696194033256, 
+        "lines_per_second": 12097.6131719431, 
+        "elapsed_seconds": 0.0731549263000488
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 81, 
+        "blank": 0
+      }, 
+      "make": {
+        "comment": 4, 
+        "nFiles": 1, 
+        "code": 24, 
+        "blank": 8
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:gk/kv_store_js.git", 
+    "author": [
+      {
+        "name": "Guy Kloss <gk@mega.co.nz>", 
+        "commit_time": "Sat Jan 17 11:04:30 2015 +1300"
+      }
+    ]
+  }, 
+  "webrtc": {
+    "cloc": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 21, 
+        "cloc_version": "1.72", 
+        "n_lines": 21972, 
+        "files_per_second": 91.9998537701706, 
+        "lines_per_second": 96258.1327161042, 
+        "elapsed_seconds": 0.228261232376099
+      }, 
+      "SUM": {
+        "comment": 5278, 
+        "nFiles": 21, 
+        "code": 13740, 
+        "blank": 2954
+      }, 
+      "JavaScript": {
+        "comment": 5270, 
+        "nFiles": 17, 
+        "code": 12846, 
+        "blank": 2850
+      }, 
+      "HTML": {
+        "comment": 3, 
+        "nFiles": 3, 
+        "code": 672, 
+        "blank": 61
+      }, 
+      "CSS": {
+        "comment": 5, 
+        "nFiles": 1, 
+        "code": 222, 
+        "blank": 43
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:lp/webrtc.git", 
+    "author": [
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Wed Jun 11 03:00:25 2014 +0300"
+      }, 
+      {
+        "name": "Aleksander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Mon Jun 9 13:12:14 2014 +0200"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Sun Jun 1 03:03:39 2014 +0000"
+      }, 
+      {
+        "name": "Ximin Luo <infinity0@pwned.gg>", 
+        "commit_time": "Sat May 31 03:14:43 2014 +0100"
+      }
+    ]
+  }, 
+  "meganz-js-sdk": {
+    "cloc": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 5, 
+        "cloc_version": "1.72", 
+        "n_lines": 587, 
+        "files_per_second": 36.2012345849502, 
+        "lines_per_second": 4250.02494027316, 
+        "elapsed_seconds": 0.138116836547852
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 9, 
+        "blank": 0
+      }, 
+      "JavaScript": {
+        "comment": 37, 
+        "nFiles": 4, 
+        "code": 448, 
+        "blank": 93
+      }, 
+      "SUM": {
+        "comment": 37, 
+        "nFiles": 5, 
+        "code": 457, 
+        "blank": 93
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:av/meganz-js-sdk.git", 
+    "author": [
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Mon Sep 7 19:58:25 2015 +0300"
+      }, 
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Wed Jun 3 16:36:54 2015 +0300"
+      }
+    ]
+  }, 
+  "karereeventobjects": {
+    "cloc": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 20, 
+        "cloc_version": "1.72", 
+        "n_lines": 1127, 
+        "files_per_second": 169.45279279898, 
+        "lines_per_second": 9548.66487422254, 
+        "elapsed_seconds": 0.118026971817017
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 14, 
+        "blank": 0
+      }, 
+      "JavaScript": {
+        "comment": 56, 
+        "nFiles": 19, 
+        "code": 995, 
+        "blank": 62
+      }, 
+      "SUM": {
+        "comment": 56, 
+        "nFiles": 20, 
+        "code": 1009, 
+        "blank": 62
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:lp/karereeventobjects.git", 
+    "author": [
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Wed Sep 3 00:02:56 2014 +0300"
+      }
+    ]
+  }, 
+  "messagebus": {
+    "cloc": {
+      "C/C++ Header": {
+        "comment": 399, 
+        "nFiles": 1, 
+        "code": 554, 
+        "blank": 184
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 28, 
+        "blank": 17
+      }, 
+      "CMake": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 13, 
+        "blank": 4
+      }, 
+      "SUM": {
+        "comment": 504, 
+        "nFiles": 4, 
+        "code": 980, 
+        "blank": 275
+      }, 
+      "C++": {
+        "comment": 105, 
+        "nFiles": 1, 
+        "code": 385, 
+        "blank": 70
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 4, 
+        "cloc_version": "1.72", 
+        "n_lines": 1759, 
+        "files_per_second": 87.1915101497781, 
+        "lines_per_second": 38342.4665883649, 
+        "elapsed_seconds": 0.0458760261535645
+      }
+    }, 
+    "lang": "C/C++ Header", 
+    "git": "https://code.developers.mega.co.nz/mh/messagebus", 
+    "author": [
+      {
+        "name": "Michael Holmwood <mh@mega.co.nz>", 
+        "commit_time": "Tue Mar 3 16:16:04 2015 +1300"
+      }
+    ]
+  }, 
+  "vg-karere-native": {
+    "cloc": {
+      "C/C++ Header": {
+        "comment": 1367, 
+        "nFiles": 59, 
+        "code": 6115, 
+        "blank": 899
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 87, 
+        "blank": 17
+      }, 
+      "CMake": {
+        "comment": 78, 
+        "nFiles": 8, 
+        "code": 521, 
+        "blank": 108
+      }, 
+      "Qt": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 477, 
+        "blank": 0
+      }, 
+      "SUM": {
+        "comment": 1760, 
+        "nFiles": 94, 
+        "code": 12060, 
+        "blank": 1510
+      }, 
+      "C++": {
+        "comment": 315, 
+        "nFiles": 24, 
+        "code": 4860, 
+        "blank": 486
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 94, 
+        "cloc_version": "1.72", 
+        "n_lines": 15330, 
+        "files_per_second": 166.652468161784, 
+        "lines_per_second": 27178.5354991506, 
+        "elapsed_seconds": 0.564048051834106
+      }
+    }, 
+    "lang": "C/C++ Header", 
+    "git": "git@code.developers.mega.co.nz:vg/karere-native.git", 
+    "author": [
+      {
+        "name": "Vincent Guo <vg@mega.co.nz>", 
+        "commit_time": "Wed Jan 14 23:06:48 2015 +0000"
+      }, 
+      {
+        "name": "Alexander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Sat Jan 10 19:30:44 2015 +0200"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Sat Aug 16 18:29:42 2014 +0300"
+      }
+    ]
+  }, 
+  "chrome-extension": {
+    "cloc": {
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 79, 
+        "blank": 28
+      }, 
+      "SUM": {
+        "comment": 58, 
+        "nFiles": 12, 
+        "code": 2897, 
+        "blank": 445
+      }, 
+      "JavaScript": {
+        "comment": 55, 
+        "nFiles": 8, 
+        "code": 2732, 
+        "blank": 417
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 12, 
+        "cloc_version": "1.72", 
+        "n_lines": 3400, 
+        "files_per_second": 89.8559602382988, 
+        "lines_per_second": 25459.1887341847, 
+        "elapsed_seconds": 0.133547067642212
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 53, 
+        "blank": 0
+      }, 
+      "HTML": {
+        "comment": 3, 
+        "nFiles": 1, 
+        "code": 33, 
+        "blank": 0
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:crodas/chrome-extension.git", 
+    "author": [
+      {
+        "name": "Cesar Rodas <cesar@rodas.me>", 
+        "commit_time": "Wed Apr 27 12:04:39 2016 -0400"
+      }, 
+      {
+        "name": "Chris <csr@mega.co.nz>", 
+        "commit_time": "Thu Feb 25 15:03:08 2016 +1300"
+      }, 
+      {
+        "name": "Diego Casorran <dcasorran@gmail.com>", 
+        "commit_time": "Tue Nov 17 12:32:08 2015 +0100"
+      }, 
+      {
+        "name": "Andr\u00e9 Meister <am@mega.co.nz>", 
+        "commit_time": "Thu Apr 30 13:44:54 2015 +1200"
+      }, 
+      {
+        "name": "Chris Riley <csr@mega.co.nz>", 
+        "commit_time": "Fri Apr 10 23:43:50 2015 +1200"
+      }, 
+      {
+        "name": "Bram van der Kolk <bk@mega.co.nz>", 
+        "commit_time": "Sun Jul 20 16:26:55 2014 +1200"
+      }
+    ]
+  }, 
+  "vg-strongvelope_cpp": {
+    "cloc": {
+      "C/C++ Header": {
+        "comment": 10537, 
+        "nFiles": 58, 
+        "code": 25992, 
+        "blank": 4496
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 49, 
+        "code": 28881, 
+        "blank": 8049
+      }, 
+      "CMake": {
+        "comment": 285, 
+        "nFiles": 19, 
+        "code": 792, 
+        "blank": 188
+      }, 
+      "m4": {
+        "comment": 49, 
+        "nFiles": 4, 
+        "code": 534, 
+        "blank": 68
+      }, 
+      "Python": {
+        "comment": 3383, 
+        "nFiles": 36, 
+        "code": 6058, 
+        "blank": 1937
+      }, 
+      "make": {
+        "comment": 308, 
+        "nFiles": 7, 
+        "code": 862, 
+        "blank": 303
+      }, 
+      "C": {
+        "comment": 47, 
+        "nFiles": 2, 
+        "code": 415, 
+        "blank": 93
+      }, 
+      "C++": {
+        "comment": 10943, 
+        "nFiles": 100, 
+        "code": 35504, 
+        "blank": 8241
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 289, 
+        "cloc_version": "1.72", 
+        "n_lines": 149818, 
+        "files_per_second": 115.332977038996, 
+        "lines_per_second": 59788.7749274337, 
+        "elapsed_seconds": 2.50578808784485
+      }, 
+      "SUM": {
+        "comment": 25620, 
+        "nFiles": 289, 
+        "code": 100812, 
+        "blank": 23386
+      }, 
+      "MSBuild script": {
+        "comment": 0, 
+        "nFiles": 11, 
+        "code": 1711, 
+        "blank": 0
+      }, 
+      "Bourne Shell": {
+        "comment": 68, 
+        "nFiles": 3, 
+        "code": 63, 
+        "blank": 11
+      }
+    }, 
+    "lang": "C++", 
+    "git": "git@code.developers.mega.co.nz:vg/strongvelope_cpp.git", 
+    "author": [
+      {
+        "name": "vincent <guoy@vinents-MacBook-Pro.local>", 
+        "commit_time": "Fri May 20 17:43:57 2016 +1200"
+      }, 
+      {
+        "name": "vinent <guoy@vinents-MacBook-Pro.local>", 
+        "commit_time": "Thu Mar 3 16:07:17 2016 +1300"
+      }, 
+      {
+        "name": "vincentguoy <vg@mega.co.nz>", 
+        "commit_time": "Mon Jan 25 14:53:05 2016 +1300"
+      }
+    ]
+  }, 
+  "stat-server": {
+    "cloc": {
+      "SUM": {
+        "comment": 141, 
+        "nFiles": 16, 
+        "code": 5388, 
+        "blank": 369
+      }, 
+      "JavaScript": {
+        "comment": 75, 
+        "nFiles": 8, 
+        "code": 3086, 
+        "blank": 175
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 16, 
+        "cloc_version": "1.72", 
+        "n_lines": 5898, 
+        "files_per_second": 117.93326667147, 
+        "lines_per_second": 43473.1504267707, 
+        "elapsed_seconds": 0.135669946670532
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 21, 
+        "blank": 0
+      }, 
+      "HTML": {
+        "comment": 1, 
+        "nFiles": 3, 
+        "code": 1965, 
+        "blank": 105
+      }, 
+      "SQL": {
+        "comment": 48, 
+        "nFiles": 1, 
+        "code": 72, 
+        "blank": 57
+      }, 
+      "Bourne Again Shell": {
+        "comment": 12, 
+        "nFiles": 1, 
+        "code": 87, 
+        "blank": 7
+      }, 
+      "Bourne Shell": {
+        "comment": 5, 
+        "nFiles": 2, 
+        "code": 157, 
+        "blank": 25
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:messenger/stat-server.git", 
+    "author": [
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Thu May 5 13:47:00 2016 +0300"
+      }, 
+      {
+        "name": "Alexander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Fri Jul 24 16:59:18 2015 +0300"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Sat Aug 16 17:39:53 2014 +0200"
+      }, 
+      {
+        "name": "Aleksander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Tue Jul 15 17:59:01 2014 +0200"
+      }
+    ]
+  }, 
+  "chat-re-goaling-specs": {
+    "cloc": {
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 20, 
+        "blank": 11
+      }, 
+      "Python": {
+        "comment": 187, 
+        "nFiles": 1, 
+        "code": 78, 
+        "blank": 78
+      }, 
+      "make": {
+        "comment": 5, 
+        "nFiles": 1, 
+        "code": 131, 
+        "blank": 25
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 5, 
+        "cloc_version": "1.72", 
+        "n_lines": 725, 
+        "files_per_second": 50.3696871877642, 
+        "lines_per_second": 7303.60464222581, 
+        "elapsed_seconds": 0.0992660522460938
+      }, 
+      "DOS Batch": {
+        "comment": 1, 
+        "nFiles": 1, 
+        "code": 166, 
+        "blank": 23
+      }, 
+      "SUM": {
+        "comment": 193, 
+        "nFiles": 5, 
+        "code": 395, 
+        "blank": 137
+      }
+    }, 
+    "lang": "Markdown", 
+    "git": "git@code.developers.mega.co.nz:gk/chat-re-goaling-specs.git", 
+    "author": [
+      {
+        "name": "Guy Kloss <gk@mega.co.nz>", 
+        "commit_time": "Tue Sep 1 15:09:59 2015 +1200"
+      }
+    ]
+  }, 
+  "messenger-karere-native": {
+    "cloc": {
+      "C/C++ Header": {
+        "comment": 5109, 
+        "nFiles": 109, 
+        "code": 17742, 
+        "blank": 2778
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 5, 
+        "code": 587, 
+        "blank": 92
+      }, 
+      "CMake": {
+        "comment": 145, 
+        "nFiles": 16, 
+        "code": 1094, 
+        "blank": 198
+      }, 
+      "Qt": {
+        "comment": 0, 
+        "nFiles": 8, 
+        "code": 2434, 
+        "blank": 0
+      }, 
+      "Python": {
+        "comment": 2, 
+        "nFiles": 2, 
+        "code": 75, 
+        "blank": 15
+      }, 
+      "Objective C++": {
+        "comment": 101, 
+        "nFiles": 8, 
+        "code": 931, 
+        "blank": 201
+      }, 
+      "SUM": {
+        "comment": 6107, 
+        "nFiles": 191, 
+        "code": 36213, 
+        "blank": 4445
+      }, 
+      "C++": {
+        "comment": 641, 
+        "nFiles": 30, 
+        "code": 11804, 
+        "blank": 1012
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 191, 
+        "cloc_version": "1.72", 
+        "n_lines": 46765, 
+        "files_per_second": 144.284124680787, 
+        "lines_per_second": 35326.9481188324, 
+        "elapsed_seconds": 1.32377696037292
+      }, 
+      "SQL": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 22, 
+        "blank": 7
+      }, 
+      "DOS Batch": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 7, 
+        "blank": 1
+      }, 
+      "Bourne Shell": {
+        "comment": 109, 
+        "nFiles": 10, 
+        "code": 1028, 
+        "blank": 141
+      }, 
+      "XMI": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 489, 
+        "blank": 0
+      }
+    }, 
+    "lang": "C/C++ Header", 
+    "git": "git@code.developers.mega.co.nz:messenger/karere-native.git", 
+    "author": [
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Wed Sep 28 22:26:01 2016 +0300"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Tue Sep 13 20:19:01 2016 +0000"
+      }, 
+      {
+        "name": "Sergio Hern\u00e1ndez <shs@mega.co.nz>", 
+        "commit_time": "Tue Sep 13 18:20:28 2016 +0200"
+      }, 
+      {
+        "name": "Alexander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Thu Jul 23 22:28:11 2015 +0300"
+      }, 
+      {
+        "name": "vincentguoy <vincentguo@Vincents-MacBook-Pro.local>", 
+        "commit_time": "Fri Mar 20 18:20:23 2015 +1300"
+      }, 
+      {
+        "name": "Vincent Guo <vg@mega.co.nz>", 
+        "commit_time": "Mon Mar 16 06:54:33 2015 +0000"
+      }
+    ]
+  }, 
+  "messenger-strongvelope_cpp": {
+    "cloc": {
+      "C/C++ Header": {
+        "comment": 9862, 
+        "nFiles": 57, 
+        "code": 25791, 
+        "blank": 4367
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 49, 
+        "code": 28881, 
+        "blank": 8049
+      }, 
+      "CMake": {
+        "comment": 298, 
+        "nFiles": 20, 
+        "code": 838, 
+        "blank": 200
+      }, 
+      "m4": {
+        "comment": 49, 
+        "nFiles": 4, 
+        "code": 534, 
+        "blank": 68
+      }, 
+      "Python": {
+        "comment": 3383, 
+        "nFiles": 36, 
+        "code": 6058, 
+        "blank": 1937
+      }, 
+      "make": {
+        "comment": 308, 
+        "nFiles": 7, 
+        "code": 862, 
+        "blank": 303
+      }, 
+      "C": {
+        "comment": 47, 
+        "nFiles": 2, 
+        "code": 415, 
+        "blank": 93
+      }, 
+      "C++": {
+        "comment": 10945, 
+        "nFiles": 100, 
+        "code": 35311, 
+        "blank": 8155
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 289, 
+        "cloc_version": "1.72", 
+        "n_lines": 148607, 
+        "files_per_second": 115.514887616946, 
+        "lines_per_second": 59399.034270213, 
+        "elapsed_seconds": 2.50184202194214
+      }, 
+      "SUM": {
+        "comment": 24960, 
+        "nFiles": 289, 
+        "code": 100464, 
+        "blank": 23183
+      }, 
+      "MSBuild script": {
+        "comment": 0, 
+        "nFiles": 11, 
+        "code": 1711, 
+        "blank": 0
+      }, 
+      "Bourne Shell": {
+        "comment": 68, 
+        "nFiles": 3, 
+        "code": 63, 
+        "blank": 11
+      }
+    }, 
+    "lang": "C++", 
+    "git": "git@code.developers.mega.co.nz:messenger/strongvelope_cpp.git", 
+    "author": [
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Wed Jun 1 18:17:02 2016 +0300"
+      }, 
+      {
+        "name": "vincent <guoy@vinents-MacBook-Pro.local>", 
+        "commit_time": "Tue Apr 26 17:12:08 2016 +1200"
+      }, 
+      {
+        "name": "vinent <guoy@vinents-MacBook-Pro.local>", 
+        "commit_time": "Thu Mar 3 16:07:17 2016 +1300"
+      }, 
+      {
+        "name": "vincentguoy <vg@mega.co.nz>", 
+        "commit_time": "Mon Jan 25 14:53:05 2016 +1300"
+      }
+    ]
+  }, 
+  "js_developer_assessment": {
+    "cloc": {
+      "TeX": {
+        "comment": 25, 
+        "nFiles": 1, 
+        "code": 249, 
+        "blank": 94
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 1, 
+        "cloc_version": "1.72", 
+        "n_lines": 368, 
+        "files_per_second": 10.4762528005835, 
+        "lines_per_second": 3855.26103061472, 
+        "elapsed_seconds": 0.0954539775848389
+      }, 
+      "SUM": {
+        "comment": 25, 
+        "nFiles": 1, 
+        "code": 249, 
+        "blank": 94
+      }
+    }, 
+    "lang": "TeX", 
+    "git": "git@code.developers.mega.co.nz:assessment/js_developer_assessment.git", 
+    "author": [
+      {
+        "name": "Guy Kloss <gk@mega.co.nz>", 
+        "commit_time": "Mon May 11 14:44:02 2015 +1200"
+      }, 
+      {
+        "name": "Chris Riley <csr@mega.co.nz>", 
+        "commit_time": "Fri May 8 11:04:13 2015 +1200"
+      }
+    ]
+  }, 
+  "karere_stresstesting": {
+    "cloc": {
+      "XML": {
+        "comment": 0, 
+        "nFiles": 8, 
+        "code": 368, 
+        "blank": 160
+      }, 
+      "Python": {
+        "comment": 197, 
+        "nFiles": 1, 
+        "code": 49, 
+        "blank": 79
+      }, 
+      "make": {
+        "comment": 6, 
+        "nFiles": 1, 
+        "code": 143, 
+        "blank": 28
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 21, 
+        "cloc_version": "1.72", 
+        "n_lines": 4701, 
+        "files_per_second": 4.48731269830596, 
+        "lines_per_second": 1004.51699974935, 
+        "elapsed_seconds": 4.67986106872559
+      }, 
+      "HTML": {
+        "comment": 0, 
+        "nFiles": 11, 
+        "code": 3426, 
+        "blank": 245
+      }, 
+      "SUM": {
+        "comment": 203, 
+        "nFiles": 21, 
+        "code": 3986, 
+        "blank": 512
+      }
+    }, 
+    "lang": "HTML", 
+    "git": "git@code.developers.mega.co.nz:messenger/karere_stresstesting.git", 
+    "author": [
+      {
+        "name": "Marek Kuziel <marek.kuziel@encode.net.nz>", 
+        "commit_time": "Thu Jul 14 13:28:31 2016 +1200"
+      }
+    ]
+  }, 
+  "karere-int-tests": {
+    "cloc": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 10, 
+        "cloc_version": "1.72", 
+        "n_lines": 945, 
+        "files_per_second": 154.454477161249, 
+        "lines_per_second": 14595.948091738, 
+        "elapsed_seconds": 0.0647439956665039
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 20, 
+        "blank": 0
+      }, 
+      "JavaScript": {
+        "comment": 291, 
+        "nFiles": 8, 
+        "code": 477, 
+        "blank": 128
+      }, 
+      "SUM": {
+        "comment": 293, 
+        "nFiles": 10, 
+        "code": 516, 
+        "blank": 136
+      }, 
+      "make": {
+        "comment": 2, 
+        "nFiles": 1, 
+        "code": 19, 
+        "blank": 8
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:lp/karere-int-tests.git", 
+    "author": [
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Mon Jul 6 21:58:21 2015 +0300"
+      }, 
+      {
+        "name": "Lyubomir Petrov <lp@mega.co.nz>", 
+        "commit_time": "Mon Jan 12 12:29:30 2015 +0000"
+      }
+    ]
+  }, 
+  "lp-meganz-js-sdk": {
+    "cloc": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 5, 
+        "cloc_version": "1.72", 
+        "n_lines": 583, 
+        "files_per_second": 37.1256196006231, 
+        "lines_per_second": 4328.84724543266, 
+        "elapsed_seconds": 0.134677886962891
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 9, 
+        "blank": 0
+      }, 
+      "JavaScript": {
+        "comment": 37, 
+        "nFiles": 4, 
+        "code": 444, 
+        "blank": 93
+      }, 
+      "SUM": {
+        "comment": 37, 
+        "nFiles": 5, 
+        "code": 453, 
+        "blank": 93
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:lp/meganz-js-sdk.git", 
+    "author": [
+      {
+        "name": "Lyubomir Petrov <lp@mega.co.nz>", 
+        "commit_time": "Fri Aug 28 11:22:28 2015 +0000"
+      }, 
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Wed Aug 26 20:43:52 2015 +0300"
+      }, 
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Wed Jun 3 16:36:54 2015 +0300"
+      }
+    ]
+  }, 
+  "mpenc_cpp": {
+    "cloc": {
+      "C/C++ Header": {
+        "comment": 7718, 
+        "nFiles": 41, 
+        "code": 15683, 
+        "blank": 2858
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 21, 
+        "blank": 12
+      }, 
+      "CMake": {
+        "comment": 0, 
+        "nFiles": 3, 
+        "code": 60, 
+        "blank": 14
+      }, 
+      "make": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 8, 
+        "blank": 1
+      }, 
+      "C++": {
+        "comment": 1348, 
+        "nFiles": 21, 
+        "code": 10223, 
+        "blank": 2233
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 67, 
+        "cloc_version": "1.72", 
+        "n_lines": 40179, 
+        "files_per_second": 126.640184224639, 
+        "lines_per_second": 75944.4173427128, 
+        "elapsed_seconds": 0.52905797958374
+      }, 
+      "SUM": {
+        "comment": 9066, 
+        "nFiles": 67, 
+        "code": 25995, 
+        "blank": 5118
+      }
+    }, 
+    "lang": "C/C++ Header", 
+    "git": "git@code.developers.mega.co.nz:js/mpenc_cpp.git", 
+    "author": [
+      {
+        "name": "javiserrano <fjaviersr@gmail.com>", 
+        "commit_time": "Wed Dec 24 03:40:51 2014 +0100"
+      }, 
+      {
+        "name": "Michael Holmwood <mh@mega.co.nz>", 
+        "commit_time": "Tue Dec 23 14:53:10 2014 +1300"
+      }, 
+      {
+        "name": "Michael Holmwood <michael@theChaosEngine>", 
+        "commit_time": "Tue Dec 16 18:21:33 2014 +1300"
+      }, 
+      {
+        "name": "Michael Holmwood <mholmwood@gmail.com>", 
+        "commit_time": "Mon Oct 13 23:38:24 2014 +1300"
+      }
+    ]
+  }, 
+  "converse-js": {
+    "cloc": {
+      "YAML": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 6, 
+        "blank": 0
+      }, 
+      "Python": {
+        "comment": 146, 
+        "nFiles": 1, 
+        "code": 33, 
+        "blank": 65
+      }, 
+      "make": {
+        "comment": 3, 
+        "nFiles": 1, 
+        "code": 122, 
+        "blank": 24
+      }, 
+      "JavaScript": {
+        "comment": 1308, 
+        "nFiles": 29, 
+        "code": 7562, 
+        "blank": 778
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 54, 
+        "cloc_version": "1.72", 
+        "n_lines": 16174, 
+        "files_per_second": 87.4822484270049, 
+        "lines_per_second": 26202.5534455255, 
+        "elapsed_seconds": 0.617268085479736
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 3, 
+        "code": 69, 
+        "blank": 0
+      }, 
+      "HTML": {
+        "comment": 11, 
+        "nFiles": 9, 
+        "code": 2893, 
+        "blank": 138
+      }, 
+      "SUM": {
+        "comment": 1567, 
+        "nFiles": 54, 
+        "code": 13180, 
+        "blank": 1427
+      }, 
+      "CSS": {
+        "comment": 99, 
+        "nFiles": 10, 
+        "code": 2495, 
+        "blank": 422
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:pnicholls/converse-js.git", 
+    "author": [
+      {
+        "name": "JC Brand <jc@opkode.com>", 
+        "commit_time": "Wed Dec 18 17:07:11 2013 +0200"
+      }, 
+      {
+        "name": "coderhs <mailme@hsps.in>", 
+        "commit_time": "Fri Oct 4 18:35:59 2013 +0530"
+      }, 
+      {
+        "name": "Boris Kocherov <bk@raskon.org>", 
+        "commit_time": "Sun Sep 29 17:32:40 2013 +0400"
+      }, 
+      {
+        "name": "w3host <w3host@w3host.hu>", 
+        "commit_time": "Thu Sep 26 15:19:14 2013 +0200"
+      }, 
+      {
+        "name": "Sergio Oliveira <sergio@tracy.com.br>", 
+        "commit_time": "Thu Sep 19 13:05:29 2013 -0300"
+      }, 
+      {
+        "name": "HaNdTriX <HaNdTriX@users.noreply.github.com>", 
+        "commit_time": "Tue Aug 13 12:06:58 2013 +0200"
+      }, 
+      {
+        "name": "Matheus Figueiredo <matheus@tracy.com.br>", 
+        "commit_time": "Thu Jul 25 17:26:48 2013 -0300"
+      }, 
+      {
+        "name": "Leonardo J. Caballero G <leonardocaballero@gmail.com>", 
+        "commit_time": "Mon Jul 22 18:21:31 2013 -0430"
+      }, 
+      {
+        "name": "Fabio Bas <ctrlaltca@gmail.com>", 
+        "commit_time": "Mon Jul 22 09:01:11 2013 +0200"
+      }, 
+      {
+        "name": "Remko Plantenga <sonata82@gmail.com>", 
+        "commit_time": "Wed Jul 17 13:02:52 2013 +0200"
+      }, 
+      {
+        "name": "witek <witekdev@gmail.com>", 
+        "commit_time": "Wed May 8 17:42:19 2013 +0200"
+      }, 
+      {
+        "name": "ichim-david <ichim.david@gmail.com>", 
+        "commit_time": "Sat Mar 2 09:38:41 2013 +0200"
+      }, 
+      {
+        "name": "Alexandru Ghica <alec.ghica@eaudeweb.ro>", 
+        "commit_time": "Mon Feb 25 16:29:45 2013 +0200"
+      }
+    ]
+  }, 
+  "xl-webrtc": {
+    "cloc": {
+      "SUM": {
+        "comment": 5278, 
+        "nFiles": 22, 
+        "code": 13724, 
+        "blank": 2953
+      }, 
+      "JavaScript": {
+        "comment": 5270, 
+        "nFiles": 17, 
+        "code": 12829, 
+        "blank": 2849
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 22, 
+        "cloc_version": "1.72", 
+        "n_lines": 21955, 
+        "files_per_second": 13.3227965333901, 
+        "lines_per_second": 13295.5453586627, 
+        "elapsed_seconds": 1.65130496025085
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 1, 
+        "blank": 0
+      }, 
+      "HTML": {
+        "comment": 3, 
+        "nFiles": 3, 
+        "code": 672, 
+        "blank": 61
+      }, 
+      "CSS": {
+        "comment": 5, 
+        "nFiles": 1, 
+        "code": 222, 
+        "blank": 43
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:xl/webrtc.git", 
+    "author": [
+      {
+        "name": "Ximin Luo <infinity0@pwned.gg>", 
+        "commit_time": "Thu Jun 5 15:36:42 2014 +0100"
+      }, 
+      {
+        "name": "Aleksander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Wed Jun 4 18:33:21 2014 +0200"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Sun Jun 1 03:03:39 2014 +0000"
+      }
+    ]
+  }, 
+  "mega_tools": {
+    "cloc": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 3, 
+        "cloc_version": "1.72", 
+        "n_lines": 360, 
+        "files_per_second": 100.508914307623, 
+        "lines_per_second": 12061.0697169148, 
+        "elapsed_seconds": 0.0298480987548828
+      }, 
+      "C/C++ Header": {
+        "comment": 174, 
+        "nFiles": 3, 
+        "code": 138, 
+        "blank": 48
+      }, 
+      "SUM": {
+        "comment": 174, 
+        "nFiles": 3, 
+        "code": 138, 
+        "blank": 48
+      }
+    }, 
+    "lang": "C/C++ Header", 
+    "git": "git@code.developers.mega.co.nz:mh/mega_tools.git", 
+    "author": [
+      {
+        "name": "Michael Holmwood <mh@mega.co.nz>", 
+        "commit_time": "Sat May 9 09:25:04 2015 +1200"
+      }
+    ]
+  }, 
+  "messenger-mpenc_cpp": {
+    "cloc": {
+      "C/C++ Header": {
+        "comment": 3440, 
+        "nFiles": 20, 
+        "code": 3117, 
+        "blank": 1032
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 26, 
+        "blank": 21
+      }, 
+      "CMake": {
+        "comment": 9, 
+        "nFiles": 4, 
+        "code": 90, 
+        "blank": 28
+      }, 
+      "SUM": {
+        "comment": 4775, 
+        "nFiles": 44, 
+        "code": 13817, 
+        "blank": 3436
+      }, 
+      "C++": {
+        "comment": 1326, 
+        "nFiles": 19, 
+        "code": 10584, 
+        "blank": 2355
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 44, 
+        "cloc_version": "1.72", 
+        "n_lines": 22028, 
+        "files_per_second": 121.726548019983, 
+        "lines_per_second": 60940.7363587314, 
+        "elapsed_seconds": 0.361465930938721
+      }
+    }, 
+    "lang": "C/C++ Header", 
+    "git": "git@code.developers.mega.co.nz:messenger/mpenc_cpp.git", 
+    "author": [
+      {
+        "name": "Michael Holmwood <mh@mega.co.nz>", 
+        "commit_time": "Mon Aug 3 21:26:19 2015 +1200"
+      }, 
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Thu Apr 30 16:26:09 2015 +0300"
+      }, 
+      {
+        "name": "Michael <mholmwood@gmail.com>", 
+        "commit_time": "Thu Apr 16 18:15:33 2015 +1200"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Mon Mar 23 15:41:57 2015 +0100"
+      }, 
+      {
+        "name": "Vincent Guo <vg@mega.co.nz>", 
+        "commit_time": "Mon Mar 16 06:26:39 2015 +0000"
+      }, 
+      {
+        "name": "vincentguoy <vincentguo@Vincents-MacBook-Pro.local>", 
+        "commit_time": "Fri Mar 13 10:07:03 2015 +1300"
+      }, 
+      {
+        "name": "Michael Holmwood <michael@theChaosEngine>", 
+        "commit_time": "Tue Dec 16 18:21:33 2014 +1300"
+      }, 
+      {
+        "name": "Michael Holmwood <mholmwood@gmail.com>", 
+        "commit_time": "Mon Oct 13 23:38:24 2014 +1300"
+      }
+    ]
+  }, 
+  "meganz-beta-stats": {
+    "cloc": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 5, 
+        "cloc_version": "1.72", 
+        "n_lines": 260, 
+        "files_per_second": 97.8473281730424, 
+        "lines_per_second": 5088.0610649982, 
+        "elapsed_seconds": 0.0511000156402588
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 18, 
+        "blank": 0
+      }, 
+      "PHP": {
+        "comment": 7, 
+        "nFiles": 3, 
+        "code": 180, 
+        "blank": 51
+      }, 
+      "SUM": {
+        "comment": 7, 
+        "nFiles": 5, 
+        "code": 202, 
+        "blank": 51
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 4, 
+        "blank": 0
+      }
+    }, 
+    "lang": "PHP", 
+    "git": "git@code.developers.mega.co.nz:lp/meganz-beta-stats.git", 
+    "author": [
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Fri Oct 24 16:59:48 2014 +0300"
+      }
+    ]
+  }, 
+  "mpenc_js": {
+    "cloc": {
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 43, 
+        "blank": 10
+      }, 
+      "Python": {
+        "comment": 128, 
+        "nFiles": 2, 
+        "code": 202, 
+        "blank": 50
+      }, 
+      "make": {
+        "comment": 12, 
+        "nFiles": 1, 
+        "code": 91, 
+        "blank": 27
+      }, 
+      "JavaScript": {
+        "comment": 5013, 
+        "nFiles": 44, 
+        "code": 10951, 
+        "blank": 1881
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 51, 
+        "cloc_version": "1.72", 
+        "n_lines": 18497, 
+        "files_per_second": 129.042428278763, 
+        "lines_per_second": 46801.917566123, 
+        "elapsed_seconds": 0.395218849182129
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 89, 
+        "blank": 0
+      }, 
+      "SUM": {
+        "comment": 5153, 
+        "nFiles": 51, 
+        "code": 11376, 
+        "blank": 1968
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:lp/mpenc_js.git", 
+    "author": [
+      {
+        "name": "Guy Kloss <gk@mega.co.nz>", 
+        "commit_time": "Thu Jul 23 12:46:26 2015 +0000"
+      }, 
+      {
+        "name": "Ximin Luo <xl@mega.co.nz>", 
+        "commit_time": "Thu Jul 23 14:41:58 2015 +0200"
+      }, 
+      {
+        "name": "Michael Holmwood <mh@mega.co.nz>", 
+        "commit_time": "Thu Jun 4 23:49:37 2015 +1200"
+      }, 
+      {
+        "name": "malloc_free <mh@mega.co.nz>", 
+        "commit_time": "Wed Jun 17 02:25:14 2015 +1200"
+      }, 
+      {
+        "name": "Vincent Guo <vg@mega.co.nz>", 
+        "commit_time": "Mon May 25 20:21:20 2015 +1200"
+      }, 
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Wed Jun 18 23:09:31 2014 +0300"
+      }, 
+      {
+        "name": "Ximin Luo <infinity0@pwned.gg>", 
+        "commit_time": "Thu May 1 23:34:53 2014 +0100"
+      }
+    ]
+  }, 
+  "cms-blobs": {
+    "cloc": {
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 1, 
+        "cloc_version": "1.72", 
+        "n_lines": 242, 
+        "files_per_second": 0.231620398037919, 
+        "lines_per_second": 56.0521363251763, 
+        "elapsed_seconds": 4.3174090385437
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 242, 
+        "blank": 0
+      }, 
+      "SUM": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 242, 
+        "blank": 0
+      }
+    }, 
+    "lang": "JSON", 
+    "git": "git@code.developers.mega.co.nz:crodas/cms-blobs.git", 
+    "author": [
+      {
+        "name": "www-data <www-data@cms.cms2.mega.nz>", 
+        "commit_time": "Mon Sep 26 08:11:05 2016 +0200"
+      }
+    ]
+  }, 
+  "CTAssetsPickerController": {
+    "cloc": {
+      "C/C++ Header": {
+        "comment": 610, 
+        "nFiles": 20, 
+        "code": 132, 
+        "blank": 297
+      }, 
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 3, 
+        "code": 324, 
+        "blank": 116
+      }, 
+      "Objective C": {
+        "comment": 414, 
+        "nFiles": 20, 
+        "code": 2111, 
+        "blank": 959
+      }, 
+      "SUM": {
+        "comment": 1024, 
+        "nFiles": 52, 
+        "code": 2900, 
+        "blank": 1378
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 52, 
+        "cloc_version": "1.72", 
+        "n_lines": 5302, 
+        "files_per_second": 89.8581197609428, 
+        "lines_per_second": 9162.0721340869, 
+        "elapsed_seconds": 0.578690052032471
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 8, 
+        "code": 311, 
+        "blank": 0
+      }, 
+      "Ruby": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 22, 
+        "blank": 6
+      }
+    }, 
+    "lang": "C/C++ Header", 
+    "git": "", 
+    "author": [
+      {
+        "name": "tagyro <andrei.stoleru@gmail.com>", 
+        "commit_time": "Wed Apr 8 09:28:01 2015 +0200"
+      }, 
+      {
+        "name": "Clement T <chiunam@gmail.com>", 
+        "commit_time": "Mon Mar 30 13:23:19 2015 +0800"
+      }, 
+      {
+        "name": "Tommy Sadiq Hinrichsen <tommy.lynge@gmail.com>", 
+        "commit_time": "Sat Mar 28 22:45:51 2015 +0100"
+      }, 
+      {
+        "name": "Szabolcs T\u00f3th <szabolcs@kapaza.be>", 
+        "commit_time": "Wed Mar 18 16:07:10 2015 +0100"
+      }, 
+      {
+        "name": "Mario \u0110ura\u0161in <indiche@gmail.com>", 
+        "commit_time": "Mon Feb 23 11:29:33 2015 +0100"
+      }, 
+      {
+        "name": "Bin Yu <bin@tori.fi>", 
+        "commit_time": "Fri Feb 20 15:57:03 2015 +0200"
+      }, 
+      {
+        "name": "Tomo Matsumoto <tomo@tamacy.jp>", 
+        "commit_time": "Sun Jan 25 08:36:08 2015 +0900"
+      }, 
+      {
+        "name": "Ken Tran <gonewiththewind152@gmail.com>", 
+        "commit_time": "Thu Jan 15 16:49:03 2015 +0800"
+      }, 
+      {
+        "name": "Miguel Cabe\u00e7a <miguel.cabeca@gmail.com>", 
+        "commit_time": "Sat Dec 27 19:22:45 2014 +0000"
+      }, 
+      {
+        "name": "Leah Vogel <leah@glidetalk.com>", 
+        "commit_time": "Tue Dec 23 08:31:55 2014 +0200"
+      }, 
+      {
+        "name": "georgschlenkhoff <georg.schlenkhoff@gmail.com>", 
+        "commit_time": "Mon Dec 22 14:34:03 2014 +0100"
+      }, 
+      {
+        "name": "jneiluj <julien.g.pierre@gmail.com>", 
+        "commit_time": "Sat Dec 20 13:08:47 2014 +0100"
+      }, 
+      {
+        "name": "Miguel Cabe\u00e7a <miguel.cabeca@custojusto.pt>", 
+        "commit_time": "Tue Nov 25 18:28:35 2014 +0000"
+      }, 
+      {
+        "name": "jerome.morissard <morissardj@gmail.com>", 
+        "commit_time": "Mon Sep 1 22:10:02 2014 +0200"
+      }, 
+      {
+        "name": "David Gifford <giff@verassist.com>", 
+        "commit_time": "Wed Feb 19 14:40:47 2014 -0500"
+      }, 
+      {
+        "name": "John Lemberger <jlemberger@readerplates.com>", 
+        "commit_time": "Tue Feb 18 17:14:17 2014 -0600"
+      }, 
+      {
+        "name": "Florian Denis <me@floriandenis.net>", 
+        "commit_time": "Wed Feb 5 19:31:39 2014 +0100"
+      }, 
+      {
+        "name": "John Lemberger <johnlemberger@gmail.com>", 
+        "commit_time": "Mon Dec 9 11:56:17 2013 -0800"
+      }, 
+      {
+        "name": "Ian Dunlop <idunlop@oefun.com>", 
+        "commit_time": "Sun Dec 8 17:32:48 2013 -0600"
+      }, 
+      {
+        "name": "Duane Fields <duane@duanefields.com>", 
+        "commit_time": "Thu Nov 21 18:05:41 2013 -0600"
+      }, 
+      {
+        "name": "Clement CN Tsang <ccntsang@ogcio.gov.hk>", 
+        "commit_time": "Wed Sep 25 09:35:12 2013 +0800"
+      }
+    ]
+  }, 
+  "loadbalancer": {
+    "cloc": {
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 152, 
+        "blank": 27
+      }, 
+      "SUM": {
+        "comment": 77, 
+        "nFiles": 16, 
+        "code": 2662, 
+        "blank": 206
+      }, 
+      "JavaScript": {
+        "comment": 42, 
+        "nFiles": 10, 
+        "code": 2058, 
+        "blank": 130
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 16, 
+        "cloc_version": "1.72", 
+        "n_lines": 2945, 
+        "files_per_second": 112.950503581623, 
+        "lines_per_second": 20789.9520654925, 
+        "elapsed_seconds": 0.141654968261719
+      }, 
+      "Bourne Again Shell": {
+        "comment": 24, 
+        "nFiles": 2, 
+        "code": 164, 
+        "blank": 11
+      }, 
+      "Bourne Shell": {
+        "comment": 11, 
+        "nFiles": 3, 
+        "code": 288, 
+        "blank": 38
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:messenger/loadbalancer.git", 
+    "author": [
+      {
+        "name": "Alexander Vasilev <av@mega.co.nz>", 
+        "commit_time": "Thu Jul 16 12:37:20 2015 +0300"
+      }, 
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Wed Jun 3 16:41:55 2015 +0300"
+      }, 
+      {
+        "name": "Alexander Vassilev <av@mega.co.nz>", 
+        "commit_time": "Mon May 25 22:06:07 2015 +0300"
+      }, 
+      {
+        "name": "Aleksandar Vasilev <av@mega.co.nz>", 
+        "commit_time": "Thu Sep 18 19:08:49 2014 +0200"
+      }
+    ]
+  }, 
+  "messenger-mpenc_js": {
+    "cloc": {
+      "Markdown": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 86, 
+        "blank": 25
+      }, 
+      "SUM": {
+        "comment": 6201, 
+        "nFiles": 55, 
+        "code": 12444, 
+        "blank": 2131
+      }, 
+      "Python": {
+        "comment": 128, 
+        "nFiles": 2, 
+        "code": 202, 
+        "blank": 50
+      }, 
+      "make": {
+        "comment": 11, 
+        "nFiles": 1, 
+        "code": 110, 
+        "blank": 32
+      }, 
+      "JavaScript": {
+        "comment": 6058, 
+        "nFiles": 46, 
+        "code": 11926, 
+        "blank": 2022
+      }, 
+      "header": {
+        "cloc_url": "github.com/AlDanial/cloc", 
+        "n_files": 55, 
+        "cloc_version": "1.72", 
+        "n_lines": 20776, 
+        "files_per_second": 144.044968095356, 
+        "lines_per_second": 54412.3319481658, 
+        "elapsed_seconds": 0.38182520866394
+      }, 
+      "JSON": {
+        "comment": 0, 
+        "nFiles": 2, 
+        "code": 96, 
+        "blank": 0
+      }, 
+      "Bourne Shell": {
+        "comment": 4, 
+        "nFiles": 1, 
+        "code": 20, 
+        "blank": 1
+      }, 
+      "CSS": {
+        "comment": 0, 
+        "nFiles": 1, 
+        "code": 4, 
+        "blank": 1
+      }
+    }, 
+    "lang": "JavaScript", 
+    "git": "git@code.developers.mega.co.nz:messenger/mpenc_js.git", 
+    "author": [
+      {
+        "name": "Ximin Luo <xl@mega.co.nz>", 
+        "commit_time": "Tue Jan 19 16:15:31 2016 +0100"
+      }, 
+      {
+        "name": "Guy Kloss <gk@mega.co.nz>", 
+        "commit_time": "Tue Jan 19 15:44:54 2016 +1300"
+      }, 
+      {
+        "name": "Lyubomir Petrov <lp@mega.co.nz>", 
+        "commit_time": "Mon Jul 27 16:03:30 2015 +0300"
+      }, 
+      {
+        "name": "Michael Holmwood <mh@mega.co.nz>", 
+        "commit_time": "Thu Jun 4 23:49:37 2015 +1200"
+      }, 
+      {
+        "name": "malloc_free <mh@mega.co.nz>", 
+        "commit_time": "Wed Jun 17 02:25:14 2015 +1200"
+      }, 
+      {
+        "name": "Vincent Guo <vg@mega.co.nz>", 
+        "commit_time": "Mon May 25 20:21:20 2015 +1200"
+      }, 
+      {
+        "name": "Lyubomir Petrov <lpetrov@me.com>", 
+        "commit_time": "Wed Jun 18 23:09:31 2014 +0300"
+      }, 
+      {
+        "name": "Ximin Luo <infinity0@pwned.gg>", 
+        "commit_time": "Thu May 1 23:34:53 2014 +0100"
+      }
+    ]
+  }
+}
